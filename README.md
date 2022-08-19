@@ -1,6 +1,6 @@
 ## About me
 
-![Image](./images/head.jpg 150x200)
+![Image](./images/head.jpg#150x200)
 Guo-Dong Zhao (赵国栋)  
 [My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)
 
