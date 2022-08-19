@@ -17,26 +17,26 @@ Guo-Dong Zhao (赵国栋)
 
 ## Publications
 -  Symmetry of ferroelectric switching and domain walls in hafnium dioxide.  
-   G.-D. Zhao, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
+   ***G.-D. Zhao***, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
    https://doi.org/10.1103/PhysRevB.106.064104
 -  Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub>.  
-   G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
+   ***G.-D. Zhao***, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
    https://doi.org/10.1103/PhysRevB.103.014438
--  X. Cheng, S. Xu, F. Jia, G. Zhao, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
+-  X. Cheng, S. Xu, F. Jia, ***G. Zhao***, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
    https://doi.org/10.1103/PhysRevB.104.104417
--  T. Jiang, T. Hu, G.-D. Zhao, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, ***Phys. Rev. B*** 104, 075147 (2021).  
+-  T. Jiang, T. Hu, ***G.-D. Zhao***, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, ***Phys. Rev. B*** 104, 075147 (2021).  
    https://doi.org/10.1103/PhysRevB.104.075147
--  Y. Li, C. Liu, G.-D. Zhao, T. Hu, and W. Ren, ***Phys. Rev. B*** 104, L060405 (2021).  
+-  Y. Li, C. Liu, ***G.-D. Zhao***, T. Hu, and W. Ren, ***Phys. Rev. B*** 104, L060405 (2021).  
    https://doi.org/10.1103/PhysRevB.104.L060405
--  C. Liu, G. Zhao, T. Hu, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 103, L081403 (2021).  
+-  C. Liu, ***G. Zhao***, T. Hu, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 103, L081403 (2021).  
    https://doi.org/10.1103/PhysRevB.103.L081403
--  C. Liu, G. Zhao, T. Hu, Y. Chen, S. Cao, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 104, L241105 (2021).  
+-  C. Liu, ***G. Zhao***, T. Hu, Y. Chen, S. Cao, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 104, L241105 (2021).  
    https://doi.org/10.1103/PhysRevB.104.L241105
--  S. Xu, F. Jia, G. Zhao, T. Hu, S. Hu, and W. Ren, ***J. Phys. Chem. C*** 125, 6157 (2021).  
+-  S. Xu, F. Jia, ***G. Zhao***, T. Hu, S. Hu, and W. Ren, ***J. Phys. Chem. C*** 125, 6157 (2021).  
    https://doi.org/10.1021/acs.jpcc.0c08989
--  S. Xu, F. Jia, G. Zhao, W. Wu, and W. Ren, ***J. Mater. Chem. C*** 9, 9130 (2021).  
+-  S. Xu, F. Jia, ***G. Zhao***, W. Wu, and W. Ren, ***J. Mater. Chem. C*** 9, 9130 (2021).  
    https://doi.org/10.1039/D1TC02238E
--  M. Hu, S. Xu, C. Liu, G. Zhao, J. Yu, and W. Ren, ***Nanoscale*** 12, 24237 (2020).  
+-  M. Hu, S. Xu, C. Liu, ***G. Zhao***, J. Yu, and W. Ren, ***Nanoscale*** 12, 24237 (2020).  
    https://doi.org/10.1039/D0NR06268E  
 ...  
 
