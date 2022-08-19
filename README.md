@@ -1,5 +1,7 @@
 ## About me
-![Image](./images/head.jpg)
+<div align="right">
+<img src=https://img-blog.csdnimg.cn/20200822014538211.png width=20% />
+</div>
 Guo-Dong Zhao (赵国栋)
 
 ### Educations
