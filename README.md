@@ -1,8 +1,11 @@
 ## Guo-Dong Zhao
 
-
-##About me 
+dsa
+##About me  
 dd
+
+![Image](./images/test1.jpg)
+[Image](./images/test1.jpg)
 
 This is a simple Blog based on Markdown files.
 
