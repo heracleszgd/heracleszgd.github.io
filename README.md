@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Guo-Dong Zhao's Blog
 
-You can use the [editor on GitHub](https://github.com/heracleszgd/heracleszgd.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a simple Blog based on Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+GitHub Pages will run [Jekyll](https://jekyllrb.com/) after I commit to this repository, to rebuild the pages in my site, from the content in my Markdown files.
 
 ### Markdown
 
