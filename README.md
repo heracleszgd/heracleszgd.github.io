@@ -1,15 +1,22 @@
-## Guo-Dong Zhao
+## About me
+![Image](./images/head.jpg)
+Guo-Dong Zhao (赵国栋)
 
-dsa
-##About me  
-dd
+### Educations
+- 2021/01 - present, Posdoc, School of Microelectronis, Fudan University
+- 2015/09 - 2020/12, PhD in Condensed Matter Physics, ICQMS, Physics Deparment, Shanghai University
+- 2011/09 - 2015/06, Bachelor in Applied Physics, Physics Deparment, Shanghai University
 
+### Visiting
+2018/12 - 2019/3, visiting scholar / internship, Basque center for applied mathematics (BCAM), Spain
+
+### English
+IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
+
+test:
 ![Image](./images/test1.jpg)
-[Image](./images/test1.jpg)
 
-This is a simple Blog based on Markdown files.
-
-GitHub Pages will run [Jekyll](https://jekyllrb.com/) after I commit to this repository, to rebuild the pages in my site, from the content in my Markdown files.
+Based on [Jekyll](https://jekyllrb.com/).
 
 ### Markdown
 
