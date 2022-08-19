@@ -1,8 +1,9 @@
 ## About me
 <div align="left">
-<img src=./images/head.jpg width=20% />
+<img src=./images/head.jpg width=25% />
 </div>
 Guo-Dong Zhao (赵国栋)
+[My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)
 
 ### Educations
 - 2021/01 - present, Posdoc, School of Microelectronis, Fudan University
@@ -10,38 +11,37 @@ Guo-Dong Zhao (赵国栋)
 - 2011/09 - 2015/06, Bachelor in Applied Physics, Physics Deparment, Shanghai University
 
 ### Visiting
-2018/12 - 2019/3, visiting scholar / internship, Basque center for applied mathematics (BCAM), Spain
+- 2018/12 - 2019/3, visiting scholar / internship, Basque center for applied mathematics (BCAM), Spain
 
 ### English
-IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
+- IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
 
-test:
-![Image](./images/test1.jpg)
+## Publications
+-  Symmetry of ferroelectric switching and domain walls in hafnium dioxide.  
+   G.-D. Zhao, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
+   https://doi.org/10.1103/PhysRevB.106.064104
+-  Difference in magnetic anisotropy of the ferromagnetic monolayers VI~3~ and CrI~3~.  
+   G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
+   https://doi.org/10.1103/PhysRevB.103.014438
+-  X. Cheng, S. Xu, F. Jia, G. Zhao, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
+   https://doi.org/10.1103/PhysRevB.104.104417
+-  T. Jiang, T. Hu, G.-D. Zhao, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, ***Phys. Rev. B*** 104, 075147 (2021).  
+   https://doi.org/10.1103/PhysRevB.104.075147
+-  Y. Li, C. Liu, G.-D. Zhao, T. Hu, and W. Ren, ***Phys. Rev. B*** 104, L060405 (2021).  
+   https://doi.org/10.1103/PhysRevB.104.L060405
+-  C. Liu, G. Zhao, T. Hu, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 103, L081403 (2021).  
+   https://doi.org/10.1103/PhysRevB.103.L081403
+-  C. Liu, G. Zhao, T. Hu, Y. Chen, S. Cao, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 104, L241105 (2021).  
+   https://doi.org/10.1103/PhysRevB.104.L241105
+-  S. Xu, F. Jia, G. Zhao, T. Hu, S. Hu, and W. Ren, ***J. Phys. Chem. C*** 125, 6157 (2021).  
+   https://doi.org/10.1021/acs.jpcc.0c08989
+-  S. Xu, F. Jia, G. Zhao, W. Wu, and W. Ren, ***J. Mater. Chem. C*** 9, 9130 (2021).  
+   https://doi.org/10.1039/D1TC02238E
+-  M. Hu, S. Xu, C. Liu, G. Zhao, J. Yu, and W. Ren, ***Nanoscale*** 12, 24237 (2020).  
+   https://doi.org/10.1039/D0NR06268E  
+...  
 
-Based on [Jekyll](https://jekyllrb.com/).
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+learn:
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
