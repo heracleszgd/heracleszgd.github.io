@@ -1,8 +1,7 @@
 ## About me
-<div align="left">
-<img src=./images/head.jpg width=25% />
-</div>
-Guo-Dong Zhao (赵国栋)
+
+![Image](./images/head.jpg 150x200)
+Guo-Dong Zhao (赵国栋)  
 [My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)
 
 ### Educations
@@ -20,7 +19,7 @@ Guo-Dong Zhao (赵国栋)
 -  Symmetry of ferroelectric switching and domain walls in hafnium dioxide.  
    G.-D. Zhao, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
    https://doi.org/10.1103/PhysRevB.106.064104
--  Difference in magnetic anisotropy of the ferromagnetic monolayers VI~3~ and CrI~3~.  
+-  Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub>.  
    G.-D. Zhao, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
    https://doi.org/10.1103/PhysRevB.103.014438
 -  X. Cheng, S. Xu, F. Jia, G. Zhao, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
