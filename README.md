@@ -1,6 +1,6 @@
 ## About me
-<div align="right">
-<img src=https://img-blog.csdnimg.cn/20200822014538211.png width=20% />
+<div align="left">
+<img src=./images/head.jpg width=20% />
 </div>
 Guo-Dong Zhao (赵国栋)
 
