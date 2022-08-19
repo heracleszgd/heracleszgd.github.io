@@ -1,7 +1,7 @@
-## About me
+## Guo-Dong Zhao (赵国栋) 
 
-![Image](./images/head.jpg#150x200)
-Guo-Dong Zhao (赵国栋)  
+![Image](./images/head.jpg)
+
 [My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)
 
 ### Educations
