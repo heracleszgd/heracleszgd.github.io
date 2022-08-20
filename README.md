@@ -5,6 +5,17 @@
 Email: zhaoguodong_at_fudan.edu.cn  
 [My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)  
 
+### Research Topics
+1. Characteristic switching dyanmics of ferroelectric-HfO2<sub>2</sub>
+2. Classify all the ferroelectric switching paths and orthogonal domain walls in complex ferroelectrics
+3. Low dimensional magnetism: Monte Carlo, ferromagnetism, Dzyaloshinsky-Moriya interaction (DMI), Skyrmions
+
+### Skills
+- Theory: Ferroelectricity (Perovskite, HfO<sub>2</sub>, 2D), Magnetism (2D), quantum transportation
+- First principles: VASP, ABINIT, QE, RESCU, Exciting; CP2K , Nanodcal , Calypso
+- Coding: Matlab (Monte Carlo: [MaCMoC](https://github.com/heracleszgd/MaCMoC)), Python (_to be released_), Shell
+- English: IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
+
 ### Educations  
 - 2021/01 - present, Posdoc (Co-Adv.: [Shaofeng Yu](https://sme.fudan.edu.cn/60/5f/c31157a352351/page.htm)), School of Microelectronis, Fudan University
 - 2015/09 - 2020/12, PhD in Condensed Matter Physics (Adv.: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)), International Centre for Quantum and Molecular Structures (ICQMS) - Physics Deparment, Shanghai University
@@ -15,12 +26,6 @@ Email: zhaoguodong_at_fudan.edu.cn
 - 2019/05, Government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
 - 2018/12 - 2019/3, Visiting Scholar / Internship, Basque center for applied mathematics (BCAM), Spain
 - 2017/06, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
-
-### Skills
-- Theory: Ferroelectricity (Perovskite, HfO<sub>2</sub>, 2D), Magnetism (2D), quantum transportation
-- First principles: VASP, ABINIT, QE, RESCU, Exciting; CP2K , Nanodcal , Calypso
-- Coding: Matlab (Monte Carlo: [MaCMoC](https://github.com/heracleszgd/MaCMoC)), Python (_to be released_), Shell
-- English: IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
 
 ### Publications
 **Pub-Top**
