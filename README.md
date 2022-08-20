@@ -7,7 +7,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 
 ### Educations  
 - 2021/01 - present, Posdoc (Co-Advisor: [Shaofeng Yu](https://sme.fudan.edu.cn/60/5f/c31157a352351/page.htm)), School of Microelectronis, Fudan University
-- 2015/09 - 2020/12, PhD in Condensed Matter Physics (Advisor: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm)), International Centre for Quantum and Molecular Structures (ICQMS) - Physics Deparment, Shanghai University
+- 2015/09 - 2020/12, PhD in Condensed Matter Physics (Advisor: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm), [Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)), International Centre for Quantum and Molecular Structures (ICQMS) - Physics Deparment, Shanghai University
 - 2011/09 - 2015/06, Bachelor in Applied Physics (Thesis Advisor: Chuanbing Cai), Physics Deparment, Shanghai University
 
 ### Awards & Visiting  
@@ -24,16 +24,16 @@ Email: zhaoguodong_at_fudan.edu.cn
 ## Publications
 1. Symmetry of ferroelectric switching and domain walls in hafnium dioxide.  
    ***G.-D. Zhao***, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
-   https://doi.org/10.1103/PhysRevB.106.064104
+   DOI: [10.1103/PhysRevB.106.064104](https://doi.org/10.1103/PhysRevB.106.064104)
 2. Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub>.  
    ***G.-D. Zhao***, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
-   https://doi.org/10.1103/PhysRevB.103.014438
-3. Modifying spin current filtering and magnetoresistance in a molecular spintronic device.
-   ***G.-D. Zhao***, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren, ***RSC Adv.***, 41587 (2018).
-   http://doi.org/10.1039/C8RA07343K
-4. Recent progress of improper ferroelectricity in perovskite oxides (in Chinese).
-   ***G.-D. Zhao***, Y.-L. Yang, and W. Ren, RSC Adv. ***ACTA PHYS SIN-CH ED***, 41587 (2018).
-   http://doi.org/10.7498/aps.67.20180936
+   DOI: [10.1103/PhysRevB.103.014438](https://doi.org/10.1103/PhysRevB.103.014438)
+3. Modifying spin current filtering and magnetoresistance in a molecular spintronic device.  
+   ***G.-D. Zhao***, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren, ***RSC Adv.***, 41587 (2018).  
+   DOI: [10.1039/C8RA07343K](http://doi.org/10.1039/C8RA07343K)
+4. Recent progress of improper ferroelectricity in perovskite oxides (in Chinese).  
+   ***G.-D. Zhao***, Y.-L. Yang, and W. Ren, RSC Adv. ***ACTA PHYS SIN-CH ED***, 41587 (2018).  
+   DOI: [10.7498/aps.67.20180936](http://doi.org/10.7498/aps.67.20180936)
 
 5. X. Cheng, S. Xu, F. Jia, ***G. Zhao***, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
    https://doi.org/10.1103/PhysRevB.104.104417
