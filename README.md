@@ -8,7 +8,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 ### Research Topics
 1. **Ferroelectric Switching Dyanmics**: Characteristics of ferroelectric-HfO<sub>2</sub>
 2. **Symmetry and Group Theory**: Classify all the ferroelectric switching paths and orthogonal domain walls in complex ferroelectrics, e.g., [HfO<sub>2</sub>](https://doi.org/10.1103/PhysRevB.106.064104)
-3. **Low-Dimensional Magnetism**: [Monte Carlo simulations](https://github.com/heracleszgd/MaCMoC), vdW-heterestructures, Dzyaloshinsky-Moriya interaction (DMI), Skyrmions, [VI<sub>3</sub>](https://doi.org/10.1103/PhysRevB.103.014438), Janus-TMD
+3. **Low-Dimensional Magnetism**: [Monte Carlo](https://github.com/heracleszgd/MaCMoC), vdW-heterestructures, Dzyaloshinsky-Moriya interaction (DMI), Skyrmions, [VI<sub>3</sub>](https://doi.org/10.1103/PhysRevB.103.014438), Janus-TMD
 4. **Quantum Transportation**: [spintronics](http://doi.org/10.1039/C8RA07343K), tunneling junctions, CMOS devices
 
 ### Skills
@@ -20,7 +20,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 - 2021/01 - present  
   Posdoc (Co-Adv.: [Shaofeng Yu](https://sme.fudan.edu.cn/60/5f/c31157a352351/page.htm)), School of Microelectronis, Fudan University
 - 2015/09 - 2020/12  
-  PhD in Condensed Matter Physics (Adv.: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)), International Centre for Quantum and Molecular Structures (ICQMS) - Physics Deparment, Shanghai University
+  PhD in Condensed Matter Physics (Adv.: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [[My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)]), International Centre for Quantum and Molecular Structures (ICQMS) - Physics Deparment, Shanghai University
 - 2011/09 - 2015/06  
   Bachelor in Applied Physics (Thesis Adv.: Chuanbing Cai), Physics Deparment, Shanghai University
 
