@@ -22,6 +22,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 - English: IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
 
 ## Publications
+### **Top**
 1. Symmetry of ferroelectric switching and domain walls in hafnium dioxide.  
    ***G.-D. Zhao***, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
    DOI: [10.1103/PhysRevB.106.064104](https://doi.org/10.1103/PhysRevB.106.064104)
@@ -34,7 +35,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 4. Recent progress of improper ferroelectricity in perovskite oxides (in Chinese).  
    ***G.-D. Zhao***, Y.-L. Yang, and W. Ren, RSC Adv. ***ACTA PHYS SIN-CH ED***, 41587 (2018).  
    DOI: [10.7498/aps.67.20180936](http://doi.org/10.7498/aps.67.20180936)
-
+### **Others**
 5. X. Cheng, S. Xu, F. Jia, ***G. Zhao***, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
    https://doi.org/10.1103/PhysRevB.104.104417
 6. T. Jiang, T. Hu, ***G.-D. Zhao***, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, ***Phys. Rev. B*** 104, 075147 (2021).  
