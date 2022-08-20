@@ -57,29 +57,29 @@ Email: zhaoguodong_at_fudan.edu.cn
    DOI: [10.1021/acs.jpcc.0c08989](https://doi.org/10.1021/acs.jpcc.0c08989)
 11. S. Xu, F. Jia, ***G. Zhao***, W. Wu, and W. Ren, ***J. Mater. Chem. C*** 9, 9130 (2021).  
    DOI: [10.1039/D1TC02238E](https://doi.org/10.1039/D1TC02238E)
-12. C. Chen, L. Fang, ***G. Zhao***, X. Liu, J. Wang, L. A. Burton, Y. Zhang, and W. Ren, ***J. Mater. Chem. C*** 9, 9539 (2021).
+12. C. Chen, L. Fang, ***G. Zhao***, X. Liu, J. Wang, L. A. Burton, Y. Zhang, and W. Ren, ***J. Mater. Chem. C*** 9, 9539 (2021).  
    DOI: [10.1039/D1TC01513C](https://doi.org/10.1039/D1TC01513C)
-13. F. Jia, S. Xu, ***G. Zhao***, C. Liu, and W. Ren, ***Phys. Rev. B*** 101, 144106 (2020).
+13. F. Jia, S. Xu, ***G. Zhao***, C. Liu, and W. Ren, ***Phys. Rev. B*** 101, 144106 (2020).  
    DOI: [10.1103/PhysRevB.101.144106](https://doi.org/10.1103/PhysRevB.101.144106)
-14. F. Jia, S. Hu, S. Xu, H. Gao, ***G. Zhao***, P. Barone, A. Stroppa, and W. Ren, ***J. Phys. Chem. Lett.*** 11, 5177 (2020).
+14. F. Jia, S. Hu, S. Xu, H. Gao, ***G. Zhao***, P. Barone, A. Stroppa, and W. Ren, ***J. Phys. Chem. Lett.*** 11, 5177 (2020).  
    DOI: [10.1021/acs.jpclett.0c00543](https://doi.org/10.1021/acs.jpclett.0c00543)
-15. T. Hu, ***G. Zhao***, H. Gao, Y. Wu, J. Hong, A. Stroppa, and W. Ren, ***Phys. Rev. B*** 101, 125401 (2020).
+15. T. Hu, ***G. Zhao***, H. Gao, Y. Wu, J. Hong, A. Stroppa, and W. Ren, ***Phys. Rev. B*** 101, 125401 (2020).  
    DOI: [10.1103/PhysRevB.101.125401](https://doi.org/10.1103/PhysRevB.101.125401)
 16. M. Hu, S. Xu, C. Liu, ***G. Zhao***, J. Yu, and W. Ren, ***Nanoscale*** 12, 24237 (2020).  
    DOI: [10.1039/D0NR06268E](https://doi.org/10.1039/D0NR06268E)
-17. K. Wang, T. Hu, F. Jia, ***G. Zhao***, Y. Liu, I. V. Solovyev, A. P. Pyatakov, A. K. Zvezdin, and W. Ren, ***Appl. Phys. Lett.*** 114, 092405 (2019).
+17. K. Wang, T. Hu, F. Jia, ***G. Zhao***, Y. Liu, I. V. Solovyev, A. P. Pyatakov, A. K. Zvezdin, and W. Ren, ***Appl. Phys. Lett.*** 114, 092405 (2019).  
    DOI: [10.1063/1.5083992](https://doi.org/10.1063/1.5083992)
-18. X. Liu, Y. Yang, T. Hu, ***G. Zhao***, C. Chen, and W. Ren, ***Nanoscale*** 11, 18575 (2019).
+18. X. Liu, Y. Yang, T. Hu, ***G. Zhao***, C. Chen, and W. Ren, ***Nanoscale*** 11, 18575 (2019).  
    DOI: [10.1039/C9NR05404A](https://doi.org/10.1039/C9NR05404A)
-19. L. Li, Y. You, S. Hu, Y. Shi, ***G. Zhao***, C. Chen, Y. Wang, A. Stroppa, and W. Ren, ***Appl. Phys. Lett.*** 114, 083102 (2019).
+19. L. Li, Y. You, S. Hu, Y. Shi, ***G. Zhao***, C. Chen, Y. Wang, A. Stroppa, and W. Ren, ***Appl. Phys. Lett.*** 114, 083102 (2019).  
    DOI: [10.1063/1.5045512](https://doi.org/10.1063/1.5045512)
-20. L. Fang, C. Chen, Y. Yang, Y. Wu, T. Hu, ***G. Zhao***, Q. Zhu, and W. Ren, ***Phys. Chem. Chem. Phys.*** 21, 8046 (2019).
+20. L. Fang, C. Chen, Y. Yang, Y. Wu, T. Hu, ***G. Zhao***, Q. Zhu, and W. Ren, ***Phys. Chem. Chem. Phys.*** 21, 8046 (2019).  
    DOI: [10.1039/C8CP07202G](https://doi.org/10.1039/C8CP07202G)
-21. Y. Liu, S. Hu, R. Caputo, K. Sun, Y. Li, ***G. Zhao***, and W. Ren, ***RSC Adv.*** 8, 39650 (2018).
+21. Y. Liu, S. Hu, R. Caputo, K. Sun, Y. Li, ***G. Zhao***, and W. Ren, ***RSC Adv.*** 8, 39650 (2018).  
    DOI: [10.1039/C8RA07843B](https://doi.org/10.1039/C8RA07843B)
-22. T. Hu, F. Jia, ***G. Zhao***, J. Wu, A. Stroppa, and W. Ren, ***Phys. Rev. B*** 97, 235404 (2018).
+22. T. Hu, F. Jia, ***G. Zhao***, J. Wu, A. Stroppa, and W. Ren, ***Phys. Rev. B*** 97, 235404 (2018).  
    DOI: [10.1103/PhysRevB.97.235404](https://doi.org/10.1103/PhysRevB.97.235404)
-23. C. Chen, L. Fang, J. Zhang, ***G. Zhao***, and W. Ren, ***Sci. Rep.*** 8, 467 (2018).
+23. C. Chen, L. Fang, J. Zhang, ***G. Zhao***, and W. Ren, ***Sci. Rep.*** 8, 467 (2018).  
    DOI: [10.1038/s41598-017-18858-x](https://doi.org/10.1038/s41598-017-18858-x)
-24. F. Jia, Y. Qi, S. Hu, T. Hu, M. Li, ***G. Zhao***, J. Zhang, A. Stroppa, and W. J. R. A. Ren, ***RSC Adv.*** 7, 38410 (2017).
+24. F. Jia, Y. Qi, S. Hu, T. Hu, M. Li, ***G. Zhao***, J. Zhang, A. Stroppa, and W. J. R. A. Ren, ***RSC Adv.*** 7, 38410 (2017).  
    DOI: [10.1039/c7ra07137j](https://doi.org/10.1039/c7ra07137j)
