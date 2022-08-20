@@ -2,8 +2,8 @@
 
 ![Image](./images/head.jpg)
 
+[My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2) 
 Email: zhaoguodong_at_fudan.edu.cn  
-[My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)  
 
 ### Research Topics
 1. **Ferroelectric Switching Dyanmics**: Characteristics of ferroelectric-HfO<sub>2</sub>
@@ -24,7 +24,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 ### Awards & Visiting  
 - 2020/10, Copper prize, The 8th “intel” cup Parallel Application Challenge
 - 2019/05, Government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
-- 2018/12 - 2019/3, Visiting Scholar / Internship, Basque center for applied mathematics (BCAM), Spain
+- 2018/12 - 2019/3, Visiting Scholar / Internship (battery materials), Basque center for applied mathematics (BCAM), Spain
 - 2017/06, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
 
 ### Publications
