@@ -1,8 +1,8 @@
 ## Guo-Dong Zhao (赵国栋) 
 
-![Image](./images/head.jpg)
+![Image](./images/head.jpg#pic_center)
 
-[My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)
+<center>[My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)</center>
 
 ### Educations
 - 2021/01 - present, Posdoc, School of Microelectronis, Fudan University
