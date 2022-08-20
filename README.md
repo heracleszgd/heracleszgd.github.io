@@ -17,11 +17,11 @@ Email: zhaoguodong_at_fudan.edu.cn
 - **English**: IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
 
 ### Educations  
-- 2021/01 - present
+- 2021/01 - present  
   Posdoc (Co-Adv.: [Shaofeng Yu](https://sme.fudan.edu.cn/60/5f/c31157a352351/page.htm)), School of Microelectronis, Fudan University
-- 2015/09 - 2020/12
+- 2015/09 - 2020/12  
   PhD in Condensed Matter Physics (Adv.: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)), International Centre for Quantum and Molecular Structures (ICQMS) - Physics Deparment, Shanghai University
-- 2011/09 - 2015/06
+- 2011/09 - 2015/06  
   Bachelor in Applied Physics (Thesis Adv.: Chuanbing Cai), Physics Deparment, Shanghai University
 
 ### Awards & Visiting  
