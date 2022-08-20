@@ -17,8 +17,8 @@ Email: zhaoguodong_at_fudan.edu.cn
 - 2017/06, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
 
 ### Skills
-- Theory: Ferroelectricity (Perovskite, HfO<sub>2</sub>, 2D), 2D-Magnetism, quantum transportation
-- First principles: VASP, ABINIT, QE, RESCU, Exciting; CP2K (AIMD), Nanodcal (DFT-NEGF), Calypso
+- Theory: Ferroelectricity (Perovskite, HfO<sub>2</sub>, 2D), Magnetism (2D), quantum transportation
+- First principles: VASP, ABINIT, QE, RESCU, Exciting; CP2K , Nanodcal , Calypso
 - Coding: Matlab (Monte Carlo: [MaCMoC](https://github.com/heracleszgd/MaCMoC)), Python (_to be released_), Shell
 - English: IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
 
