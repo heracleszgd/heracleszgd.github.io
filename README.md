@@ -47,21 +47,22 @@ Email: zhaoguodong_at_fudan.edu.cn
 
 **Pub-Others**
 
-5. Intrinsic ferromagnetism with high Curie temperature and strong anisotropy in a ferroelastic VX monolayer (X = P, As).  
-   X. Cheng, S. Xu, F. Jia, ***G. Zhao***, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
-   DOI: [10.1103/PhysRevB.104.104417](https://doi.org/10.1103/PhysRevB.104.104417)
-6. Two-dimensional charge density waves in TaX<sub>2</sub> (X = S, Se, Te) from first principles.  
-   T. Jiang, T. Hu, ***G.-D. Zhao***, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, ***Phys. Rev. B*** 104, 075147 (2021).  
-   DOI: [10.1103/PhysRevB.104.075147](https://doi.org/10.1103/PhysRevB.104.075147)
-7. Two-dimensional multiferroics in a breathing kagome lattice.  
-   Y. Li, C. Liu, ***G.-D. Zhao***, T. Hu, and W. Ren, ***Phys. Rev. B*** 104, L060405 (2021).  
-   DOI: [10.1103/PhysRevB.104.L060405](https://doi.org/10.1103/PhysRevB.104.L060405)
-8. Structural and magnetic properties of two-dimensional layered BiFeO<sub>3</sub> from first principles.  
+
+5. Structural and magnetic properties of two-dimensional layered BiFeO<sub>3</sub> from first principles.  
    C. Liu, ***G. Zhao***, T. Hu, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 103, L081403 (2021).  
    DOI: [10.1103/PhysRevB.103.L081403](https://doi.org/10.1103/PhysRevB.103.L081403)
-9. Ferromagnetism, Jahn-Teller effect, and orbital order in the two-dimensional monolayer perovskite Rb<sub>2</sub>CuCl<sub>4</sub>.  
+6. Ferromagnetism, Jahn-Teller effect, and orbital order in the two-dimensional monolayer perovskite Rb<sub>2</sub>CuCl<sub>4</sub>.  
    C. Liu, ***G. Zhao***, T. Hu, Y. Chen, S. Cao, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 104, L241105 (2021).  
    DOI: [10.1103/PhysRevB.104.L241105](https://doi.org/10.1103/PhysRevB.104.L241105)
+7. Intrinsic ferromagnetism with high Curie temperature and strong anisotropy in a ferroelastic VX monolayer (X = P, As).  
+   X. Cheng, S. Xu, F. Jia, ***G. Zhao***, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
+   DOI: [10.1103/PhysRevB.104.104417](https://doi.org/10.1103/PhysRevB.104.104417)
+8. Two-dimensional charge density waves in TaX<sub>2</sub> (X = S, Se, Te) from first principles.  
+   T. Jiang, T. Hu, ***G.-D. Zhao***, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, ***Phys. Rev. B*** 104, 075147 (2021).  
+   DOI: [10.1103/PhysRevB.104.075147](https://doi.org/10.1103/PhysRevB.104.075147)
+9. Two-dimensional multiferroics in a breathing kagome lattice.  
+   Y. Li, C. Liu, ***G.-D. Zhao***, T. Hu, and W. Ren, ***Phys. Rev. B*** 104, L060405 (2021).  
+   DOI: [10.1103/PhysRevB.104.L060405](https://doi.org/10.1103/PhysRevB.104.L060405)
 10. Tunable Magnetism and Insulator–Metal Transition in Bilayer Perovskites.  
    S. Xu, F. Jia, ***G. Zhao***, T. Hu, S. Hu, and W. Ren, ***J. Phys. Chem. C*** 125, 6157 (2021).  
    DOI: [10.1021/acs.jpcc.0c08989](https://doi.org/10.1021/acs.jpcc.0c08989)
@@ -71,36 +72,36 @@ Email: zhaoguodong_at_fudan.edu.cn
 12. A high-temperature quantum anomalous Hall effect in electride gadolinium monohalides.  
    C. Chen, L. Fang, ***G. Zhao***, X. Liu, J. Wang, L. A. Burton, Y. Zhang, and W. Ren, ***J. Mater. Chem. C*** 9, 9539 (2021).  
    DOI: [10.1039/D1TC01513C](https://doi.org/10.1039/D1TC01513C)
-13. Structural and electronic properties of two-dimensional freestanding BaTiO<sub>3</sub>/SrTiO<sub>3</sub> heterostructures.  
-   F. Jia, S. Xu, ***G. Zhao***, C. Liu, and W. Ren, ***Phys. Rev. B*** 101, 144106 (2020).  
-   DOI: [10.1103/PhysRevB.101.144106](https://doi.org/10.1103/PhysRevB.101.144106)
-14. Persistent Spin-texture and Ferroelectric Polarization in 2D Hybrid Perovskite Benzylammonium Lead-halide.  
-   F. Jia, S. Hu, S. Xu, H. Gao, ***G. Zhao***, P. Barone, A. Stroppa, and W. Ren, ***J. Phys. Chem. Lett.*** 11, 5177 (2020).  
-   DOI: [10.1021/acs.jpclett.0c00543](https://doi.org/10.1021/acs.jpclett.0c00543)
-15. Manipulation of valley pseudospin in WSe<sub>2</sub>/CrI<sub>3</sub> heterostructures by the magnetic proximity effect.  
+13. Manipulation of valley pseudospin in WSe<sub>2</sub>/CrI<sub>3</sub> heterostructures by the magnetic proximity effect.  
    T. Hu, ***G. Zhao***, H. Gao, Y. Wu, J. Hong, A. Stroppa, and W. Ren, ***Phys. Rev. B*** 101, 125401 (2020).  
    DOI: [10.1103/PhysRevB.101.125401](https://doi.org/10.1103/PhysRevB.101.125401)
+14. Structural and electronic properties of two-dimensional freestanding BaTiO<sub>3</sub>/SrTiO<sub>3</sub> heterostructures.  
+   F. Jia, S. Xu, ***G. Zhao***, C. Liu, and W. Ren, ***Phys. Rev. B*** 101, 144106 (2020).  
+   DOI: [10.1103/PhysRevB.101.144106](https://doi.org/10.1103/PhysRevB.101.144106)
+15. Persistent Spin-texture and Ferroelectric Polarization in 2D Hybrid Perovskite Benzylammonium Lead-halide.  
+   F. Jia, S. Hu, S. Xu, H. Gao, ***G. Zhao***, P. Barone, A. Stroppa, and W. Ren, ***J. Phys. Chem. Lett.*** 11, 5177 (2020).  
+   DOI: [10.1021/acs.jpclett.0c00543](https://doi.org/10.1021/acs.jpclett.0c00543)
 16. First-principles prediction of a room-temperature ferromagnetic and ferroelastic 2D multiferroic MnNX (X = F, Cl, Br, and I).  
    M. Hu, S. Xu, C. Liu, ***G. Zhao***, J. Yu, and W. Ren, ***Nanoscale*** 12, 24237 (2020).  
    DOI: [10.1039/D0NR06268E](https://doi.org/10.1039/D0NR06268E)
-17. Magnetic and electronic properties of Cr<sub>2</sub>Ge<sub>2</sub>Te<sub>6</sub> monolayer by strain and electric-field engineering.  
-   K. Wang, T. Hu, F. Jia, ***G. Zhao***, Y. Liu, I. V. Solovyev, A. P. Pyatakov, A. K. Zvezdin, and W. Ren, ***Appl. Phys. Lett.*** 114, 092405 (2019).  
-   DOI: [10.1063/1.5083992](https://doi.org/10.1063/1.5083992)
-18. Vertical ferroelectric switching by in-plane sliding of two-dimensional bilayer WTe<sub>2</sub>.  
+17. Vertical ferroelectric switching by in-plane sliding of two-dimensional bilayer WTe<sub>2</sub>.  
    X. Liu, Y. Yang, T. Hu, ***G. Zhao***, C. Chen, and W. Ren, ***Nanoscale*** 11, 18575 (2019).  
    DOI: [10.1039/C9NR05404A](https://doi.org/10.1039/C9NR05404A)
+18. Magnetic and electronic properties of Cr<sub>2</sub>Ge<sub>2</sub>Te<sub>6</sub> monolayer by strain and electric-field engineering.  
+   K. Wang, T. Hu, F. Jia, ***G. Zhao***, Y. Liu, I. V. Solovyev, A. P. Pyatakov, A. K. Zvezdin, and W. Ren, ***Appl. Phys. Lett.*** 114, 092405 (2019).  
+   DOI: [10.1063/1.5083992](https://doi.org/10.1063/1.5083992)
 19. Electronic transport of organic-inorganic hybrid perovskites from first-principles and machine learning.  
    L. Li, Y. You, S. Hu, Y. Shi, ***G. Zhao***, C. Chen, Y. Wang, A. Stroppa, and W. Ren, ***Appl. Phys. Lett.*** 114, 083102 (2019).  
    DOI: [10.1063/1.5045512](https://doi.org/10.1063/1.5045512)
 20. First-principles studies of a two-dimensional electron gas at the interface of polar/polar LaAlO<sub>3</sub>/KNbO<sub>3</sub> superlattices.  
    L. Fang, C. Chen, Y. Yang, Y. Wu, T. Hu, ***G. Zhao***, Q. Zhu, and W. Ren, ***Phys. Chem. Chem. Phys.*** 21, 8046 (2019).  
    DOI: [10.1039/C8CP07202G](https://doi.org/10.1039/C8CP07202G)
-21. Allotropes of tellurium from first-principles crystal structure prediction calculations under pressure.  
-   Y. Liu, S. Hu, R. Caputo, K. Sun, Y. Li, ***G. Zhao***, and W. Ren, ***RSC Adv.*** 8, 39650 (2018).  
-   DOI: [10.1039/C8RA07843B](https://doi.org/10.1039/C8RA07843B)
-22. Intrinsic and anisotropic Rashba spin splitting in Janus transition-metal dichalcogenide monolayers.  
+21. Intrinsic and anisotropic Rashba spin splitting in Janus transition-metal dichalcogenide monolayers.  
    T. Hu, F. Jia, ***G. Zhao***, J. Wu, A. Stroppa, and W. Ren, ***Phys. Rev. B*** 97, 235404 (2018).  
    DOI: [10.1103/PhysRevB.97.235404](https://doi.org/10.1103/PhysRevB.97.235404)
+22. Allotropes of tellurium from first-principles crystal structure prediction calculations under pressure.  
+   Y. Liu, S. Hu, R. Caputo, K. Sun, Y. Li, ***G. Zhao***, and W. Ren, ***RSC Adv.*** 8, 39650 (2018).  
+   DOI: [10.1039/C8RA07843B](https://doi.org/10.1039/C8RA07843B)
 23. Thickness Control of the Spin-Polarized Two-Dimensional Electron Gas in LaAlO<sub>3</sub>/BaTiO<sub>3</sub> Superlattices.  
    C. Chen, L. Fang, J. Zhang, ***G. Zhao***, and W. Ren, ***Sci. Rep.*** 8, 467 (2018).  
    DOI: [10.1038/s41598-017-18858-x](https://doi.org/10.1038/s41598-017-18858-x)
