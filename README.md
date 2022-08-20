@@ -1,16 +1,19 @@
 ## Guo-Dong Zhao (赵国栋) 
 
-![Image](./images/head.jpg#pic_center)
+![Image](./images/head.jpg)
 
-<center>[My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)</center>
+email: zhaoguodong_at_fudan.edu.cn  
+[My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)  
 
-### Educations
+### Educations  
 - 2021/01 - present, Posdoc, School of Microelectronis, Fudan University
-- 2015/09 - 2020/12, PhD in Condensed Matter Physics, ICQMS, Physics Deparment, Shanghai University
+- 2015/09 - 2020/12, PhD in Condensed Matter Physics, ICQMS - Physics Deparment, Shanghai University
 - 2011/09 - 2015/06, Bachelor in Applied Physics, Physics Deparment, Shanghai University
 
-### Visiting
+### Awards & Visiting  
+- 2019/05, the scholarship to pursue abroad study as a visiting PhD student, Chinese Government Council - Scholarship State Scholarship Fund (hindered by visa)
 - 2018/12 - 2019/3, visiting scholar / internship, Basque center for applied mathematics (BCAM), Spain
+- 2017/06, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
 
 ### English
 - IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
