@@ -6,10 +6,10 @@ Email: zhaoguodong_at_fudan.edu.cn
 [My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)  
 
 ### Research Topics
-1. Ferroelectric Switching Dyanmics: Characteristics of ferroelectric-HfO<sub>2</sub>
-2. Symmetry and Group Theory: Classify all the ferroelectric switching paths and orthogonal domain walls in complex ferroelectrics
-3. Low-Dimensional Magnetism: Monte Carlo, ferromagnetism, vdW-heterestructures, Dzyaloshinsky-Moriya interaction (DMI), Skyrmions
-4. Quantum Transportation: spintronics, tunneling junctions, CMOS devices
+1. **Ferroelectric Switching Dyanmics**: Characteristics of ferroelectric-HfO<sub>2</sub>
+2. **Symmetry and Group Theory**: Classify all the ferroelectric switching paths and orthogonal domain walls in complex ferroelectrics
+3. **Low-Dimensional Magnetism**: Monte Carlo, ferromagnetism, vdW-heterestructures, Dzyaloshinsky-Moriya interaction (DMI), Skyrmions
+4. **Quantum Transportation**: spintronics, tunneling junctions, CMOS devices
 
 ### Skills
 - First principles: VASP, ABINIT, QE, RESCU, Exciting; CP2K , Nanodcal , Calypso
