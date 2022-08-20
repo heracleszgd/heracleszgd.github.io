@@ -6,9 +6,9 @@ Email: zhaoguodong_at_fudan.edu.cn
 [My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)  
 
 ### Educations  
-- 2021/01 - present, Posdoc (Co-Advisor: [Shaofeng Yu](https://sme.fudan.edu.cn/60/5f/c31157a352351/page.htm)), School of Microelectronis, Fudan University
-- 2015/09 - 2020/12, PhD in Condensed Matter Physics (Advisor: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)), International Centre for Quantum and Molecular Structures (ICQMS) - Physics Deparment, Shanghai University
-- 2011/09 - 2015/06, Bachelor in Applied Physics (Thesis Advisor: Chuanbing Cai), Physics Deparment, Shanghai University
+- 2021/01 - present, Posdoc (Co-Adv.: [Shaofeng Yu](https://sme.fudan.edu.cn/60/5f/c31157a352351/page.htm)), School of Microelectronis, Fudan University
+- 2015/09 - 2020/12, PhD in Condensed Matter Physics (Adv.: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)), International Centre for Quantum and Molecular Structures (ICQMS) - Physics Deparment, Shanghai University
+- 2011/09 - 2015/06, Bachelor in Applied Physics (Thesis Adv.: Chuanbing Cai), Physics Deparment, Shanghai University
 
 ### Awards & Visiting  
 - 2020/10, Copper prize, The 8th “intel” cup Parallel Application Challenge
