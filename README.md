@@ -12,7 +12,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 
 ### Awards & Visiting  
 - The 8th “intel” cup Parallel Application Challenge – Copper prize (2020)
-- 2019/05, the scholarship to pursue abroad study as a visiting PhD student, Chinese Government Council - Scholarship State Scholarship Fund (hindered by visa)
+- 2019/05, the scholarship to pursue abroad study as a visiting PhD student, Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
 - 2018/12 - 2019/3, visiting scholar / internship, Basque center for applied mathematics (BCAM), Spain
 - 2017/06, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
 
@@ -23,7 +23,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 - English: IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
 
 ## Publications
-### **Top**
+### **Pub-Top**
 1. Symmetry of ferroelectric switching and domain walls in hafnium dioxide.  
    ***G.-D. Zhao***, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
    DOI: [10.1103/PhysRevB.106.064104](https://doi.org/10.1103/PhysRevB.106.064104)
@@ -36,7 +36,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 4. Recent progress of improper ferroelectricity in perovskite oxides (in Chinese).  
    ***G.-D. Zhao***, Y.-L. Yang, and W. Ren, RSC Adv. ***ACTA PHYS SIN-CH ED***, 41587 (2018).  
    DOI: [10.7498/aps.67.20180936](http://doi.org/10.7498/aps.67.20180936)
-### **Others**
+### **Pub-Others**
 5. X. Cheng, S. Xu, F. Jia, ***G. Zhao***, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
    DOI: [10.1103/PhysRevB.104.104417](https://doi.org/10.1103/PhysRevB.104.104417)
 6. T. Jiang, T. Hu, ***G.-D. Zhao***, Y. Li, S. Xu, C. Liu, Y. Cui, and W. Ren, ***Phys. Rev. B*** 104, 075147 (2021).  
