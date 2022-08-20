@@ -17,18 +17,18 @@ Email: zhaoguodong_at_fudan.edu.cn
 - **English**: IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
 
 ### Educations  
-- **2021/01 - present, Fudan University**  
+- **Jan 2021 - present, Fudan University**  
   Posdoc (Co-Adv.: [Shaofeng Yu](https://sme.fudan.edu.cn/60/5f/c31157a352351/page.htm))
-- **2015/09 - 2020/12, Shanghai University**  
+- **Sep 2015 - Dec 2020, Shanghai University**  
   PhD in Condensed Matter Physics (Adv.: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [[My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)]), International Centre for Quantum and Molecular Structures (ICQMS)
-- **2011/09 - 2015/06, Shanghai University**  
+- **Sep 2011 - Jun 2015, Shanghai University**  
   Bachelor in Applied Physics (Thesis Adv.: Chuanbing Cai)
 
 ### Awards & Visiting  
-- 2020/10, Copper Prize, The 8th “intel” cup Parallel Application Challenge
-- 2019/05, Government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
-- 2018/12 - 2019/3, Visiting Scholar / Internship (battery materials), Basque center for applied mathematics (BCAM), Spain
-- 2017/06, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
+- Oct 2020, Copper Prize, The 8th “intel” cup Parallel Application Challenge
+- May 2019, Government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
+- Dec 2018 - Mar 2019, Visiting Scholar / Internship (battery materials), Basque center for applied mathematics (BCAM), Spain
+- Jun 2017, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
 
 ### Publications
 **Pub-Top**
