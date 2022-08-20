@@ -12,7 +12,7 @@ Email: zhaoguodong_at_fudan.edu.cn
 4. **Quantum Transportation**: spintronics, tunneling junctions, CMOS devices
 
 ### Skills
-- **First principles**: VASP, ABINIT, QE, RESCU, Exciting; CP2K, Nanodcal, Calypso
+- **First-Principles**: VASP, ABINIT, QE, RESCU, Exciting; CP2K, Nanodcal, Calypso
 - **Coding**: Matlab (Monte Carlo: [MaCMoC](https://github.com/heracleszgd/MaCMoC)), Python (_to be released_), Shell
 - **English**: IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
 
