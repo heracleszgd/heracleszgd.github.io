@@ -2,7 +2,7 @@
 
 ![Image](./images/head.jpg)
 
-[My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2) 
+[My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)  
 Email: zhaoguodong_at_fudan.edu.cn  
 
 ### Research Topics
