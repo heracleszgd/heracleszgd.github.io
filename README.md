@@ -11,9 +11,9 @@ Email: zhaoguodong_at_fudan.edu.cn
 - 2011/09 - 2015/06, Bachelor in Applied Physics (Thesis Advisor: Chuanbing Cai), Physics Deparment, Shanghai University
 
 ### Awards & Visiting  
-- The 8th “intel” cup Parallel Application Challenge – Copper prize (2020)
-- 2019/05, government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
-- 2018/12 - 2019/3, visiting scholar / internship, Basque center for applied mathematics (BCAM), Spain
+- 2020/10, Copper prize, The 8th “intel” cup Parallel Application Challenge
+- 2019/05, Government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
+- 2018/12 - 2019/3, Visiting Scholar / Internship, Basque center for applied mathematics (BCAM), Spain
 - 2017/06, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
 
 ### Skills
