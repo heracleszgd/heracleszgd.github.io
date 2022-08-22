@@ -3,7 +3,7 @@
 ![Image](./images/head.jpg)
 
 [My Researchgate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)  
-Email: zhaoguodong@fudan.edu.cn  
+Email: zhaoguodong@fudan.edu.cn
 
 ### Research Topics
 1. **Ferroelectric Switching Dyanmics**: Characteristics of FE-HfO<sub>2</sub> from multiscale simulations
