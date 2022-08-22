@@ -37,7 +37,10 @@ Email: zhaoguodong@fudan.edu.cn
    DOI: [10.1103/PhysRevB.106.064104](https://doi.org/10.1103/PhysRevB.106.064104)
 2. Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub>.  
    ***G.-D. Zhao***, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
-   DOI: [10.1103/PhysRevB.103.014438](https://doi.org/10.1103/PhysRevB.103.014438)
+   DOI: [10.1103/PhysRevB.103.014438](https://doi.org/10.1103/PhysRevB.103.014438)  
+   ![Image](./images/VI3-1.tif)![Image](./images/VI3-2.tiff)
+   
+
 3. Modifying spin current filtering and magnetoresistance in a molecular spintronic device.  
    ***G.-D. Zhao***, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren, ***RSC Adv.***, 41587 (2018).  
    DOI: [10.1039/C8RA07343K](http://doi.org/10.1039/C8RA07343K)
