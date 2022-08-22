@@ -32,7 +32,7 @@ Email: zhaoguodong@fudan.edu.cn
 
 ### Publications
 **Pub-Top & Intro**
-1. **Symmetry of ferroelectric switching and domain walls in hafnium dioxide**.<font color=red>**[NEW!]**</font>  
+1. **Symmetry of ferroelectric switching and domain walls in hafnium dioxide**.<strong><font color=red>[NEW!]</font></strong>  
    ***G.-D. Zhao***, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
    DOI: [10.1103/PhysRevB.106.064104](https://doi.org/10.1103/PhysRevB.106.064104)
    ![Image](./images/HfO2.jpg)
