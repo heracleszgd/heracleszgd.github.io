@@ -32,22 +32,23 @@ Email: zhaoguodong@fudan.edu.cn
 
 ### Publications
 **Pub-Top & Intro**
-1. Symmetry of ferroelectric switching and domain walls in hafnium dioxide.  
+1. **Symmetry of ferroelectric switching and domain walls in hafnium dioxide**.  
    ***G.-D. Zhao***, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
    DOI: [10.1103/PhysRevB.106.064104](https://doi.org/10.1103/PhysRevB.106.064104)
-2. Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub>.  
+2. **Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub>**.  
    ***G.-D. Zhao***, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
    DOI: [10.1103/PhysRevB.103.014438](https://doi.org/10.1103/PhysRevB.103.014438)  
    ![Image](./images/VI3.jpg)
+   On the basis of both first principles DFT calculations and theoretical analyses, we showed that VI<sub>3</sub> monolayer is both ferromagnetic and uniaxial whereas CrI<sub>3</sub> monolayer is ferromagnetic but is not uniaxial, and that the minimal model Hamiltonian to distinguish between VI<sub>3</sub> and CrI<sub>3</sub> monolayer is surprisingly a simple Hamiltonian containing only two parameters, namely, the nearest-neighbor spin exchange and the magnetic anisotropy of each magnetic ion.  
+   Our predicted Curie Temperature of monolayer VI<sub>3</sub> (T<sub>C</sub> = 60 K) is accurately consistent with the experimental obervation [[Xiaodong Xu](https://doi.org/10.1021/acs.nanolett.1c03027)].
 
-
-3. Modifying spin current filtering and magnetoresistance in a molecular spintronic device.  
+3. **Modifying spin current filtering and magnetoresistance in a molecular spintronic device**.  
    ***G.-D. Zhao***, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren, ***RSC Adv.***, 41587 (2018).  
    DOI: [10.1039/C8RA07343K](http://doi.org/10.1039/C8RA07343K)
    ![Image](./images/DDQP.jpg)
    Based on a graphene nanoribbon based molecular spintronic device, we extensively explored ways to modify the spin current filltering magnetoresistance performances.
 
-4. Recent progress of improper ferroelectricity in perovskite oxides (in Chinese).  
+4. **Recent progress of improper ferroelectricity in perovskite oxides** (in Chinese).  
    ***G.-D. Zhao***, Y.-L. Yang, and W. Ren, RSC Adv. ***ACTA PHYS SIN-CH ED***, 41587 (2018).  
    DOI: [10.7498/aps.67.20180936](http://doi.org/10.7498/aps.67.20180936)  
    We reviewed the research background and advances for impoper ferroelectricity in perovskite oxides, where ferroelectric polarization is a secondary order parameter induced by other orders.
