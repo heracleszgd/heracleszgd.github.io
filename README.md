@@ -36,7 +36,7 @@ Email: zhaoguodong@fudan.edu.cn
    ***G.-D. Zhao***, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
    DOI: [10.1103/PhysRevB.106.064104](https://doi.org/10.1103/PhysRevB.106.064104)
    ![Image](./images/HfO2.jpg)
-   - We introduce a general methodology of analyzing the symmetry of FE switching paths and domain walls in complex ferroelectric materials. Here for example in ferroelectric-HfO<sub>2</sub>, 4 low-barrier FE switching paths and 93 irreducible topology domain wall configurations are classified and analyzed. 
+   - We introduce a general conceptual methodology of analyzing the symmetry of FE switching paths and domain walls in complex ferroelectric materials. Here for example in ferroelectric-HfO<sub>2</sub>, 4 low-barrier FE switching paths and 93 irreducible topology domain wall configurations are classified and analyzed. 
    - Intrinsic anisotropic switching mechanism of HfO<sub>2</sub> is inferred.
 
 2. **Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub>**.  
