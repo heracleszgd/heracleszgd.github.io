@@ -41,6 +41,9 @@ Email: zhaoguodong@fudan.edu.cn
 3. Modifying spin current filtering and magnetoresistance in a molecular spintronic device.  
    ***G.-D. Zhao***, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren, ***RSC Adv.***, 41587 (2018).  
    DOI: [10.1039/C8RA07343K](http://doi.org/10.1039/C8RA07343K)
+   ![Image](./images/DDQP.jpg)
+   Based on a graphene nanoribbon based molecular spintronic device, we extensively explored possible methods to modify the spin current filltering magnetoresistance performances.
+
 4. Recent progress of improper ferroelectricity in perovskite oxides (in Chinese).  
    ***G.-D. Zhao***, Y.-L. Yang, and W. Ren, RSC Adv. ***ACTA PHYS SIN-CH ED***, 41587 (2018).  
    DOI: [10.7498/aps.67.20180936](http://doi.org/10.7498/aps.67.20180936)  
