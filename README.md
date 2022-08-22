@@ -50,7 +50,7 @@ Email: zhaoguodong@fudan.edu.cn
    ***G.-D. Zhao***, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren, ***RSC Adv.***, 41587 (2018).  
    DOI: [10.1039/C8RA07343K](http://doi.org/10.1039/C8RA07343K)
    ![Image](./images/DDQP.jpg)
-   - Based on a zigzag edged graphene nanoribbon (ZGNR) based molecular spintronic device, we extensively explored ways to modify spin current filltering efficiency (SFE), magnetoresistance ratio (MR), and Rectifying ratio (RR) performances.
+   - Based on DFT-NEGF studies on zigzag edged graphene nanoribbon (ZGNR) molecular spintronic devices, we extensively explored ways to modify spin current filltering efficiency (SFE), magnetoresistance ratio (MR), and Rectifying ratio (RR) performances.
 
 4. **Recent progress of improper ferroelectricity in perovskite oxides** (in Chinese).  
    ***G.-D. Zhao***, Y.-L. Yang, and W. Ren, RSC Adv. ***ACTA PHYS SIN-CH ED***, 41587 (2018).  
