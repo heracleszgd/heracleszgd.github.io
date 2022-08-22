@@ -35,6 +35,9 @@ Email: zhaoguodong@fudan.edu.cn
 1. **Symmetry of ferroelectric switching and domain walls in hafnium dioxide**.  
    ***G.-D. Zhao***, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
    DOI: [10.1103/PhysRevB.106.064104](https://doi.org/10.1103/PhysRevB.106.064104)
+   ![Image](./images/HfO2.jpg)
+   - We introduce a general methodology of analyzing the symmetry of FE switching paths and domain walls in complex ferroelectric materials. Here for example in ferroelectric-HfO<sub>2</sub>, 4 low-barrier FE switching paths and 93 irreducible topology domain wall configurations are classified and analyzed. Intrinsic anisotropic switching mechanism of HfO<sub>2</sub> is inferred.
+
 2. **Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub>**.  
    ***G.-D. Zhao***, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren, ***Phys. Rev. B*** 103, 014438 (2021).  
    DOI: [10.1103/PhysRevB.103.014438](https://doi.org/10.1103/PhysRevB.103.014438)  
@@ -46,7 +49,7 @@ Email: zhaoguodong@fudan.edu.cn
    ***G.-D. Zhao***, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren, ***RSC Adv.***, 41587 (2018).  
    DOI: [10.1039/C8RA07343K](http://doi.org/10.1039/C8RA07343K)
    ![Image](./images/DDQP.jpg)
-   Based on a zigzag edged graphene nanoribbon (ZGNR) based molecular spintronic device, we extensively explored ways to modify spin current filltering efficiency (SFE), magnetoresistance ratio (MR), and Rectifying ratio (RR) performances.
+   - Based on a zigzag edged graphene nanoribbon (ZGNR) based molecular spintronic device, we extensively explored ways to modify spin current filltering efficiency (SFE), magnetoresistance ratio (MR), and Rectifying ratio (RR) performances.
 
 4. **Recent progress of improper ferroelectricity in perovskite oxides** (in Chinese).  
    ***G.-D. Zhao***, Y.-L. Yang, and W. Ren, RSC Adv. ***ACTA PHYS SIN-CH ED***, 41587 (2018).  
