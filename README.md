@@ -40,7 +40,7 @@ Email: zhaoguodong@fudan.edu.cn
    DOI: [10.1103/PhysRevB.103.014438](https://doi.org/10.1103/PhysRevB.103.014438)  
    ![Image](./images/VI3.jpg)
    On the basis of both first principles DFT calculations and theoretical analyses, we showed that VI<sub>3</sub> monolayer is both ferromagnetic and uniaxial whereas CrI<sub>3</sub> monolayer is ferromagnetic but is not uniaxial, and that the minimal model Hamiltonian to distinguish between VI<sub>3</sub> and CrI<sub>3</sub> monolayer is surprisingly a simple Hamiltonian containing only two parameters, namely, the nearest-neighbor spin exchange and the magnetic anisotropy of each magnetic ion.  
-   Our predicted Curie Temperature of monolayer VI<sub>3</sub> (T<sub>C</sub> = 60 K) is accurately consistent with the experimental obervation [[Xiaodong Xu](https://doi.org/10.1021/acs.nanolett.1c03027)].
+   Our predicted Curie Temperature of monolayer VI<sub>3</sub> (T<sub>C</sub> = 58\~60 K) is accurately consistent with the experimental obervation [[Xiaodong Xu](https://doi.org/10.1021/acs.nanolett.1c03027)].
 
 3. **Modifying spin current filtering and magnetoresistance in a molecular spintronic device**.  
    ***G.-D. Zhao***, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren, ***RSC Adv.***, 41587 (2018).  
