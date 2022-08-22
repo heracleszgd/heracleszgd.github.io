@@ -22,7 +22,7 @@ Email: zhaoguodong@fudan.edu.cn
 - **Sep 2015 - Dec 2020, Shanghai University**  
   PhD in Condensed Matter Physics (Adv.: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [[My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)]), International Centre for Quantum and Molecular Structures (ICQMS)
 - **Sep 2011 - Jun 2015, Shanghai University**  
-  Bachelor in Applied Physics (Thesis Adv.: Chuanbing Cai)
+  Bachelor in Applied Physics (Thesis Adv.: [Chuanbing Cai](https://www.scicol.shu.edu.cn/xkjs/zdsys.htm))
 
 ### Awards & Visiting  
 - Oct 2020, Copper Prize, The 8th “intel” cup Parallel Application Challenge
