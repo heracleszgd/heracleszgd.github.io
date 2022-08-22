@@ -27,7 +27,7 @@ Email: zhaoguodong@fudan.edu.cn
 ### Awards & Visiting  
 - Oct 2020, Copper Prize, The 8th “intel” cup Parallel Application Challenge
 - May 2019, Government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
-- Dec 2018 - Mar 2019, Visiting Scholar / Internship (battery materials), Basque center for applied mathematics (BCAM), Spain
+- Dec 2018 - Mar 2019, Visiting Scholar / Internship (lithium battery materials), Basque center for applied mathematics (BCAM), Spain
 - Jun 2017, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
 
 ### Publications
