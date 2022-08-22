@@ -31,7 +31,7 @@ Email: zhaoguodong@fudan.edu.cn
 - Jun 2017, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
 
 ### Publications
-**Pub-Top**
+**Pub-Top & Intro**
 1. Symmetry of ferroelectric switching and domain walls in hafnium dioxide.  
    ***G.-D. Zhao***, X. Liu, W. Ren, X. Zhu, S. Yu, ***Phys. Rev. B*** 106, 064104 (2022).  
    DOI: [10.1103/PhysRevB.106.064104](https://doi.org/10.1103/PhysRevB.106.064104)
@@ -42,11 +42,12 @@ Email: zhaoguodong@fudan.edu.cn
    ***G.-D. Zhao***, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren, ***RSC Adv.***, 41587 (2018).  
    DOI: [10.1039/C8RA07343K](http://doi.org/10.1039/C8RA07343K)
    ![Image](./images/DDQP.jpg)
-   Based on a graphene nanoribbon based molecular spintronic device, we extensively explored possible methods to modify the spin current filltering magnetoresistance performances.
+   Based on a graphene nanoribbon based molecular spintronic device, we extensively explored ways to modify the spin current filltering magnetoresistance performances.
 
 4. Recent progress of improper ferroelectricity in perovskite oxides (in Chinese).  
    ***G.-D. Zhao***, Y.-L. Yang, and W. Ren, RSC Adv. ***ACTA PHYS SIN-CH ED***, 41587 (2018).  
    DOI: [10.7498/aps.67.20180936](http://doi.org/10.7498/aps.67.20180936)  
+   We reviewed the research background and advances for impoper ferroelectricity in perovskite oxides, where ferroelectric polarization is a secondary order parameter induced by other orders.
 
 **Pub-Others**
 
