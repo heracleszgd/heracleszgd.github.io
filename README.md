@@ -64,7 +64,7 @@ Email: zhaoguodong@fudan.edu.cn
    DOI: [10.1103/PhysRevB.103.L081403](https://doi.org/10.1103/PhysRevB.103.L081403)
 6. Ferromagnetism, Jahn-Teller effect, and orbital order in the two-dimensional monolayer perovskite Rb<sub>2</sub>CuCl<sub>4</sub>.  
    C. Liu, ***G. Zhao***, T. Hu, Y. Chen, S. Cao, L. Bellaiche, and W. Ren, ***Phys. Rev. B*** 104, L241105 (2021).  
-   DOI: [10.1103/PhysRevB.104.L241105](https://doi.org/10.1103/PhysRevB.104.L241105)
+   DOI: [10.1103/PhysRevB.104.L241105](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.L241105)
 7. Intrinsic ferromagnetism with high Curie temperature and strong anisotropy in a ferroelastic VX monolayer (X = P, As).  
    X. Cheng, S. Xu, F. Jia, ***G. Zhao***, M. Hu, W. Wu, and W. Ren, ***Phys. Rev. B*** 104, 104417 (2021).  
    DOI: [10.1103/PhysRevB.104.104417](https://doi.org/10.1103/PhysRevB.104.104417)
