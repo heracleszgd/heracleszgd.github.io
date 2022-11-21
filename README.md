@@ -25,7 +25,7 @@ Email: zhaoguodong@fudan.edu.cn
   **Bachelor** in Applied Physics (Thesis Adv.: [Chuanbing Cai](https://www.scicol.shu.edu.cn/xkjs/zdsys.htm)). Physics Department.
 
 ### Awards & Visiting, et al. 
-- Nov 2022, Invited Speaking, [EEMD 2022](https://mp.weixin.qq.com/s/d5k2IqmjTE8K7xgsd2P3yg)
+- <strong><font color=red>[NEW!]</font> Nov 2022, Invited Speaking, [EEMD 2022](https://mp.weixin.qq.com/s/d5k2IqmjTE8K7xgsd2P3yg)
 - Oct 2020, Copper Prize, The 8th “intel” cup Parallel Application Challenge
 - May 2019, Government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
 - Dec 2018 - Mar 2019, Visiting Scholar / Internship (lithium battery materials), Basque center for applied mathematics (BCAM), Spain
