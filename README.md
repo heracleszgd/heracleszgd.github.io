@@ -3,6 +3,7 @@
 ![Image](./images/head.jpg)
 
 [My ResearchGate](https://www.researchgate.net/profile/Guo-Dong-Zhao-2)  
+[My Google Scholar](https://scholar.google.com/citations?user=raOOxo8AAAAJ&hl)  
 Email: zhaoguodong@fudan.edu.cn
 
 ### Research Topics
