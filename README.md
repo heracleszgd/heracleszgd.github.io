@@ -18,14 +18,15 @@ Email: zhaoguodong@fudan.edu.cn
 - **English**: IELTS: 7.0 (all individuals > 6.0, Academic, 06/JAN/2018)
 
 ### Educations  
-- **Jan 2021 - present, Fudan University**  
-  **Posdoc** (Co-Adv.: [Shaofeng Yu](https://sme.fudan.edu.cn/60/5f/c31157a352351/page.htm)). School of Microelectronis.
-- **Sep 2015 - Dec 2020, Shanghai University**  
-  **PhD** in Condensed Matter Physics (Adv.: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [[My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)]). International Centre for Quantum and Molecular Structures (ICQMS), Physics Department.
-- **Sep 2011 - Jun 2015, Shanghai University**  
-  **Bachelor** in Applied Physics (Thesis Adv.: [Chuanbing Cai](https://www.scicol.shu.edu.cn/xkjs/zdsys.htm)). Physics Department.
+- **Jan 2021 - present, Fudan University**, School of Microelectronis.  
+  **Posdoc** (Co-Adv.: [Shaofeng Yu](https://sme.fudan.edu.cn/60/5f/c31157a352351/page.htm)).  
+- **Sep 2015 - Dec 2020, Shanghai University**, International Centre for Quantum and Molecular Structures (ICQMS), Physics Department.  
+  **PhD** in Condensed Matter Physics (Adv.: [Wei Ren](https://physics.shu.edu.cn/info/1082/1311.htm). [[My Thesis](https://doi.org/10.27300/d.cnki.gshau.2020.000503)]).  
+- **Sep 2011 - Jun 2015, Shanghai University**, Physics Department.  
+  **Bachelor** in Applied Physics (Thesis Adv.: [Chuanbing Cai](https://www.scicol.shu.edu.cn/xkjs/zdsys.htm)).  
 
 ### Awards & Visiting, et al. 
+- <strong><font color=red>[NEW!]</font></strong> Dec 2022, Oral Prensentation & Best Paper Award, [2022 Semiconductor Technology Forum](https://sme.fudan.edu.cn/12/bd/c29363a463549/page.htm), Fudan & Huawei  
 - <strong><font color=red>[NEW!]</font></strong> Nov 2022, Invited Speaking, [EEMD 2022](https://mp.weixin.qq.com/s/d5k2IqmjTE8K7xgsd2P3yg), IMECAS 
 - Oct 2020, Copper Prize, The 8th “Intel Cup” Parallel Application Challenge-PAC, CCF TCHPC & Intel China Ltd. & Beijing PARATERA Tech Corp., Ltd.
 - May 2019, Government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
