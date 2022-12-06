@@ -30,7 +30,7 @@ Email: zhaoguodong@fudan.edu.cn
 - <strong><font color=red>[NEW!]</font></strong> Nov 2022, Invited Speaking, [EEMD 2022](https://mp.weixin.qq.com/s/d5k2IqmjTE8K7xgsd2P3yg), IMECAS 
 - Oct 2020, Copper Prize, The 8th “Intel Cup” Parallel Application Challenge-PAC, CCF TCHPC & Intel China Ltd. & Beijing PARATERA Tech Corp., Ltd.
 - May 2019, Government sponsored oversea education (visiting PhD student, dual PhD in UTS), Chinese Government Council (CSC) - State Scholarship Fund (hindered by visa)
-- Dec 2018 - Mar 2019, Visiting Scholar / Internship (lithium battery materials), Basque center for applied mathematics (BCAM), Spain
+- Dec 2018 - Mar 2019, Internship (lithium battery materials), Basque center for applied mathematics (BCAM), Spain
 - Jun 2017, IUCr Young Scientist Award, The International Union of Crystallography (IUCr)
 
 ### Publications
