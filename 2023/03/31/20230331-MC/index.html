@@ -3,22 +3,26 @@
 <head>
   <meta charset="utf-8">
   <title>Metropolis Monte Carlo | Guo-Dong Zhao</title>
-  <meta name="keywords" content=" Monte Carlo , Magnetism ">
+  <meta name="keywords" content=" Monte Carlo , Magnetism , Matlab ">
   <meta name="description" content="Metropolis Monte Carlo | Guo-Dong Zhao">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="This small code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.">
+<meta name="description" content="This small python3 script is about postprocessing of CP2K AIMD output with BEC, for polarization changes during ferroelectric switching under external electric fields.">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Metropolis Monte Carlo">
-<meta property="og:url" content="http://example.com/2023/03/31/20230331-MC/index.html">
+<meta property="og:title" content="Polarization change in CP2K">
+<meta property="og:url" content="http://example.com/2023/03/31/20230331-CP2K-postprocess/index.html">
 <meta property="og:site_name" content="Guo-Dong Zhao">
-<meta property="og:description" content="This small code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.">
+<meta property="og:description" content="This small python3 script is about postprocessing of CP2K AIMD output with BEC, for polarization changes during ferroelectric switching under external electric fields.">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2023-03-31T06:14:19.048Z">
-<meta property="article:modified_time" content="2023-03-31T06:29:46.411Z">
+<meta property="og:image" content="http://example.com/img/AIMD-HfO2.jpg">
+<meta property="article:published_time" content="2023-03-31T06:30:14.806Z">
+<meta property="article:modified_time" content="2023-03-31T08:54:48.809Z">
 <meta property="article:author" content="G.-D. Zhao">
-<meta property="article:tag" content="Monte Carlo">
-<meta property="article:tag" content="Magnetism">
+<meta property="article:tag" content="AIMD">
+<meta property="article:tag" content="Born Effective Charges">
+<meta property="article:tag" content="Polarization">
+<meta property="article:tag" content="Python">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/img/AIMD-HfO2.jpg">
 
 
 <link rel="icon" href="/img/avatar.jpg">
@@ -139,7 +143,7 @@
                     <div data-rel="Codes">
                         
                         Codes
-                        <small>(1)</small>
+                        <small>(2)</small>
                         
                     </div>
                     
@@ -168,7 +172,7 @@
     </div>
 </div>
 <input type="hidden" id="yelog_site_posts_number" value="2">
-<input type="hidden" id="yelog_site_word_count" value="31">
+<input type="hidden" id="yelog_site_word_count" value="77">
 <div style="display: none">
     <span id="busuanzi_value_site_uv"></span>
     <span id="busuanzi_value_site_pv"></span>
@@ -214,11 +218,31 @@
     <div class="tag-wrapper">
         
             <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>AIMD</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>Born Effective Charges</a>
+            </li>
+        
+            <li class="article-tag-list-item">
                 <i class="iconfont icon-tag"></i><a>Magnetism</a>
             </li>
         
             <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>Matlab</a>
+            </li>
+        
+            <li class="article-tag-list-item">
                 <i class="iconfont icon-tag"></i><a>Monte Carlo</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>Polarization</a>
+            </li>
+        
+            <li class="article-tag-list-item">
+                <i class="iconfont icon-tag"></i><a>Python</a>
             </li>
         
     </div>
@@ -234,20 +258,20 @@
         
         
         <a  class="All Codes "
-           href="/2023/03/31/20230331-MC/"
-           data-tag="Monte Carlo,Magnetism"
+           href="/2023/03/31/20230331-CP2K-postprocess/"
+           data-tag="AIMD,Born Effective Charges,Polarization,Python"
            data-author="" >
-            <span class="post-title" title="Metropolis Monte Carlo">Metropolis Monte Carlo</span>
-            <span class="post-date" title="2023-03-31 14:14:19">2023/03/31</span>
+            <span class="post-title" title="Polarization change in CP2K">Polarization change in CP2K</span>
+            <span class="post-date" title="2023-03-31 14:30:14">2023/03/31</span>
         </a>
         
         
-        <a  class="All "
-           href="/2023/02/22/README/"
-           data-tag=""
+        <a  class="All Codes "
+           href="/2023/03/31/20230331-MC/"
+           data-tag="Monte Carlo,Magnetism,Matlab"
            data-author="" >
-            <span class="post-title" title=""></span>
-            <span class="post-date" title="2023-02-22 15:02:12">2023/02/22</span>
+            <span class="post-title" title="Metropolis Monte Carlo">Metropolis Monte Carlo</span>
+            <span class="post-date" title="2023-03-31 14:14:19">2023/03/31</span>
         </a>
         
         <div id="no-item-tips">
@@ -292,12 +316,14 @@
             
             <a class="color5">Magnetism</a>
             
+            <a class="color2">Matlab</a>
+            
         </span>
         
     </div>
     <div class="article-meta">
         
-            Created At : <time class="date" title='Updated At: 2023-03-31 14:29:46'>2023-03-31 14:14</time>
+            Created At : <time class="date" title='Updated At: 2023-03-31 14:33:40'>2023-03-31 14:14</time>
         
     </div>
     <div class="article-meta">

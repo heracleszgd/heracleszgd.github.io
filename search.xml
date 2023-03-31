@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Polarization change in CP2K</title>
+      <link href="/2023/03/31/20230331-CP2K-postprocess/"/>
+      <url>/2023/03/31/20230331-CP2K-postprocess/</url>
+      
+        <content type="html"><![CDATA[<p>This small python3 script is about postprocessing of CP2K AIMD output with BEC, for polarization changes during ferroelectric switching under external electric fields.</p><span id="more"></span><p><img src="/img/AIMD-HfO2.jpg" alt=""><br>Example: The abnormal continuous ferroelectric switching (homogeneous) of <em>Pca</em>2<sub>1</sub>-HfO<sub>2</sub>, via UCP-a<em>N</em> (N = 2, 4) and UCP-b paths. [<a href="https://doi.org/10.48550/arXiv.2302.02874">1</a>,<a href="https://doi.org/10.1103/PhysRevB.106.064104">2</a>]</p><p>Here will come some introductions…</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Codes </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AIMD </tag>
+            
+            <tag> Born Effective Charges </tag>
+            
+            <tag> Polarization </tag>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Metropolis Monte Carlo</title>
       <link href="/2023/03/31/20230331-MC/"/>
       <url>/2023/03/31/20230331-MC/</url>
@@ -24,20 +55,9 @@
             
             <tag> Magnetism </tag>
             
+            <tag> Matlab </tag>
+            
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/2023/02/22/README/"/>
-      <url>/2023/02/22/README/</url>
-      
-        <content type="html"><![CDATA[<p>Blogs are coming soon.</p>]]></content>
-      
-      
       
     </entry>
     

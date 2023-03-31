@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-31T06:29:46.411Z</updated>
+  <updated>2023-03-31T08:54:48.809Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Polarization change in CP2K</title>
+    <link href="http://example.com/2023/03/31/20230331-CP2K-postprocess/"/>
+    <id>http://example.com/2023/03/31/20230331-CP2K-postprocess/</id>
+    <published>2023-03-31T06:30:14.806Z</published>
+    <updated>2023-03-31T08:54:48.809Z</updated>
+    
+    <content type="html"><![CDATA[<p>This small python3 script is about postprocessing of CP2K AIMD output with BEC, for polarization changes during ferroelectric switching under external electric fields.</p><span id="more"></span><p><img src="/img/AIMD-HfO2.jpg" alt=""><br>Example: The abnormal continuous ferroelectric switching (homogeneous) of <em>Pca</em>2<sub>1</sub>-HfO<sub>2</sub>, via UCP-a<em>N</em> (N = 2, 4) and UCP-b paths. [<a href="https://doi.org/10.48550/arXiv.2302.02874">1</a>,<a href="https://doi.org/10.1103/PhysRevB.106.064104">2</a>]</p><p>Here will come some introductions…</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;This small python3 script is about postprocessing of CP2K AIMD output with BEC, for polarization changes during ferroelectric switching under external electric fields.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Codes" scheme="http://example.com/categories/Codes/"/>
+    
+    
+    <category term="AIMD" scheme="http://example.com/tags/AIMD/"/>
+    
+    <category term="Born Effective Charges" scheme="http://example.com/tags/Born-Effective-Charges/"/>
+    
+    <category term="Polarization" scheme="http://example.com/tags/Polarization/"/>
+    
+    <category term="Python" scheme="http://example.com/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Metropolis Monte Carlo</title>
     <link href="http://example.com/2023/03/31/20230331-MC/"/>
     <id>http://example.com/2023/03/31/20230331-MC/</id>
     <published>2023-03-31T06:14:19.048Z</published>
-    <updated>2023-03-31T06:29:46.411Z</updated>
+    <updated>2023-03-31T06:33:40.348Z</updated>
     
     <content type="html"><![CDATA[<p>This small code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.</p><span id="more"></span><p><a href="https://github.com/heracleszgd/MaCMoC">https://github.com/heracleszgd/MaCMoC</a></p><p>Here will come some introductions…</p>]]></content>
     
@@ -37,26 +64,7 @@
     
     <category term="Magnetism" scheme="http://example.com/tags/Magnetism/"/>
     
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2023/02/22/README/"/>
-    <id>http://example.com/2023/02/22/README/</id>
-    <published>2023-02-22T07:02:12.080Z</published>
-    <updated>2023-02-08T13:26:53.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Blogs are coming soon.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Blogs are coming soon.&lt;/p&gt;
-</summary>
-      
-    
-    
-    
+    <category term="Matlab" scheme="http://example.com/tags/Matlab/"/>
     
   </entry>
   

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/03/31/20230331-MC/</loc>
+    <loc>http://example.com/2023/03/31/20230331-CP2K-postprocess/</loc>
     
     <lastmod>2023-03-31</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/02/22/README/</loc>
+    <loc>http://example.com/2023/03/31/20230331-MC/</loc>
     
-    <lastmod>2023-02-08</lastmod>
+    <lastmod>2023-03-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -37,6 +37,41 @@
   
   <url>
     <loc>http://example.com/tags/Magnetism/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/AIMD/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Born-Effective-Charges/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Polarization/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Python/</loc>
+    <lastmod>2023-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Matlab/</loc>
     <lastmod>2023-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
