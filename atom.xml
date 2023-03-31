@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-08T13:26:53.000Z</updated>
+  <updated>2023-03-31T06:28:31.232Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Metropolis Monte Carlo</title>
+    <link href="http://example.com/2023/03/31/README%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <id>http://example.com/2023/03/31/README%20-%20%E5%89%AF%E6%9C%AC/</id>
+    <published>2023-03-31T06:28:31.231Z</published>
+    <updated>2023-03-31T06:28:31.232Z</updated>
+    
+    <content type="html"><![CDATA[<p>This small code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.</p><span id="more"></span><p><a href="https://github.com/heracleszgd/MaCMoC">https://github.com/heracleszgd/MaCMoC</a></p><p>Here will come some introductions…</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;This small code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Codes" scheme="http://example.com/categories/Codes/"/>
+    
+    
+    <category term="Monte Carlo" scheme="http://example.com/tags/Monte-Carlo/"/>
+    
+    <category term="Magnetism" scheme="http://example.com/tags/Magnetism/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Metropolis Monte Carlo simulation of magnetic phase transitions</title>
+    <link href="http://example.com/2023/03/31/20230331-MC/"/>
+    <id>http://example.com/2023/03/31/20230331-MC/</id>
+    <published>2023-03-31T06:14:19.048Z</published>
+    <updated>2023-03-31T06:26:03.872Z</updated>
+    
+    <content type="html"><![CDATA[<p>This small code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm.</p><span id="more"></span><p><a href="https://github.com/heracleszgd/MaCMoC">https://github.com/heracleszgd/MaCMoC</a></p><p>Here will come some introductions…</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;This small code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Codes" scheme="http://example.com/categories/Codes/"/>
+    
+    
+    <category term="Monte Carlo" scheme="http://example.com/tags/Monte-Carlo/"/>
+    
+    <category term="Magnetism" scheme="http://example.com/tags/Magnetism/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
