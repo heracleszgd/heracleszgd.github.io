@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2023/04/02/20230402-note-DPMD/</loc>
+    
+    <lastmod>2023-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2023/03/31/20230331-compile-VASP/</loc>
     
     <lastmod>2023-04-02</lastmod>
@@ -11,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/03/31/20230331-MC/</loc>
+    <loc>http://example.com/2023/03/31/20230331-code-MC/</loc>
     
     <lastmod>2023-04-02</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2023/03/31/20230331-CP2K-postprocess/</loc>
+    <loc>http://example.com/2023/03/31/20230331-code-CP2K/</loc>
     
     <lastmod>2023-04-02</lastmod>
     
@@ -111,6 +120,20 @@
   
   <url>
     <loc>http://example.com/tags/Ferroelectrics/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/machaine-learning/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/force-field/</loc>
     <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

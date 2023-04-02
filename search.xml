@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Deep Potential Molecular Dynamics</title>
+      <link href="/2023/04/02/20230402-note-DPMD/"/>
+      <url>/2023/04/02/20230402-note-DPMD/</url>
+      
+        <content type="html"><![CDATA[<p>My learning notes for technics of generating force fields and potential energy surfaces via machahine learning (Mainly focusing on the DPMD established by Zhang et al.).</p><span id="more"></span><p>Here will come some introductions…</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Learn </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> machaine-learning </tag>
+            
+            <tag> force field </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Sliding, breathing, and bulk phonon modes in ferroelectrics</title>
       <link href="/2023/04/02/20230402-note-1D-Phonone/"/>
       <url>/2023/04/02/20230402-note-1D-Phonone/</url>
@@ -57,8 +84,8 @@
     
     <entry>
       <title>Polarization change in CP2K</title>
-      <link href="/2023/03/31/20230331-CP2K-postprocess/"/>
-      <url>/2023/03/31/20230331-CP2K-postprocess/</url>
+      <link href="/2023/03/31/20230331-code-CP2K/"/>
+      <url>/2023/03/31/20230331-code-CP2K/</url>
       
         <content type="html"><![CDATA[<p>This small python3 script is about postprocessing of CP2K AIMD output with BEC, for polarization changes during ferroelectric switching under external electric fields.</p><span id="more"></span><p><img src="/img/codes/AIMD-HfO2.jpg" alt=""><br>Example: The abnormal continuous ferroelectric switching (homogeneous) of <em>Pca</em>2<sub>1</sub>-HfO<sub>2</sub>, via UCP-a<em>N</em> (N = 2, 4) and UCP-b paths[<a href="https://doi.org/10.48550/arXiv.2302.02874">1</a>,<a href="https://doi.org/10.1103/PhysRevB.106.064104">2</a>]. This figure is plotted in the general scheme of <em>P-E</em> loop, if it was.</p><p>Here will come some introductions…</p>]]></content>
       
@@ -88,8 +115,8 @@
     
     <entry>
       <title>Metropolis Monte Carlo</title>
-      <link href="/2023/03/31/20230331-MC/"/>
-      <url>/2023/03/31/20230331-MC/</url>
+      <link href="/2023/03/31/20230331-code-MC/"/>
+      <url>/2023/03/31/20230331-code-MC/</url>
       
         <content type="html"><![CDATA[<p>This code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.</p><span id="more"></span><p><a href="https://github.com/heracleszgd/MaCMoC">https://github.com/heracleszgd/MaCMoC</a></p><p>Here will come some introductions…</p>]]></content>
       

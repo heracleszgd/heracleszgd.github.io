@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-02T12:25:12.450Z</updated>
+  <updated>2023-04-02T14:00:18.940Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Deep Potential Molecular Dynamics</title>
+    <link href="http://example.com/2023/04/02/20230402-note-DPMD/"/>
+    <id>http://example.com/2023/04/02/20230402-note-DPMD/</id>
+    <published>2023-04-02T13:46:02.537Z</published>
+    <updated>2023-04-02T14:00:18.940Z</updated>
+    
+    <content type="html"><![CDATA[<p>My learning notes for technics of generating force fields and potential energy surfaces via machahine learning (Mainly focusing on the DPMD established by Zhang et al.).</p><span id="more"></span><p>Here will come some introductions…</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;My learning notes for technics of generating force fields and potential energy surfaces via machahine learning (Mainly focusing on the DPMD established by Zhang et al.).&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Learn" scheme="http://example.com/categories/Learn/"/>
+    
+    
+    <category term="machaine-learning" scheme="http://example.com/tags/machaine-learning/"/>
+    
+    <category term="force field" scheme="http://example.com/tags/force-field/"/>
+    
+  </entry>
   
   <entry>
     <title>Sliding, breathing, and bulk phonon modes in ferroelectrics</title>
@@ -62,8 +85,8 @@
   
   <entry>
     <title>Polarization change in CP2K</title>
-    <link href="http://example.com/2023/03/31/20230331-CP2K-postprocess/"/>
-    <id>http://example.com/2023/03/31/20230331-CP2K-postprocess/</id>
+    <link href="http://example.com/2023/03/31/20230331-code-CP2K/"/>
+    <id>http://example.com/2023/03/31/20230331-code-CP2K/</id>
     <published>2023-03-31T06:30:14.806Z</published>
     <updated>2023-04-02T12:27:27.139Z</updated>
     
@@ -89,8 +112,8 @@
   
   <entry>
     <title>Metropolis Monte Carlo</title>
-    <link href="http://example.com/2023/03/31/20230331-MC/"/>
-    <id>http://example.com/2023/03/31/20230331-MC/</id>
+    <link href="http://example.com/2023/03/31/20230331-code-MC/"/>
+    <id>http://example.com/2023/03/31/20230331-code-MC/</id>
     <published>2023-03-31T06:14:19.048Z</published>
     <updated>2023-04-02T12:30:19.770Z</updated>
     
