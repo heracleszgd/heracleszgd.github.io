@@ -92,12 +92,12 @@
     <link href="http://example.com/2023/03/31/20230331-MC/"/>
     <id>http://example.com/2023/03/31/20230331-MC/</id>
     <published>2023-03-31T06:14:19.048Z</published>
-    <updated>2023-03-31T06:33:40.348Z</updated>
+    <updated>2023-04-02T12:30:19.770Z</updated>
     
-    <content type="html"><![CDATA[<p>This small code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.</p><span id="more"></span><p><a href="https://github.com/heracleszgd/MaCMoC">https://github.com/heracleszgd/MaCMoC</a></p><p>Here will come some introductions…</p>]]></content>
+    <content type="html"><![CDATA[<p>This code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.</p><span id="more"></span><p><a href="https://github.com/heracleszgd/MaCMoC">https://github.com/heracleszgd/MaCMoC</a></p><p>Here will come some introductions…</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;This small code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;This code is about Markov-Chain Monte Carlo simulations with Metropolis algorithm, for magnetic phase transitions.&lt;/p&gt;</summary>
     
     
     
