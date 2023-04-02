@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Sliding, breathing, and bulk phonon modes in ferroelectrics</title>
+      <link href="/2023/04/02/20230402-note-1D-Phonone/"/>
+      <url>/2023/04/02/20230402-note-1D-Phonone/</url>
+      
+        <content type="html"><![CDATA[<p>Here I tried to analiticaly reproduce the phonon spectral function (Fig. 4d) of a 1D-chain model showing some elementary ferroelectric domain wall modes (the nondispersive sliding mode at the lowest energy, the breathing mode at a higher energy, and the dispersive bulk phonon branch) of [<a href="https://doi.org/10.1126/sciadv.1602371"><em><strong>Sci. Adv.</strong></em> <strong>3</strong>, e1602371 (2017)</a>].</p><span id="more"></span><p><img src="/img/learning/1D-phonon.jpg" alt="The figure is attained by a matlab script with manually adjusted parameters. The smearing is just for the convenience of the eyes."></p><p>Here will come some introductions…</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Learn </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Phonon </tag>
+            
+            <tag> Ferroelectrics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Compilations of DFT codes</title>
       <link href="/2023/03/31/20230331-compile-VASP/"/>
       <url>/2023/03/31/20230331-compile-VASP/</url>
@@ -13,7 +40,7 @@
       
       <categories>
           
-          <category> Compilation </category>
+          <category> Compile </category>
           
       </categories>
       
@@ -33,7 +60,7 @@
       <link href="/2023/03/31/20230331-CP2K-postprocess/"/>
       <url>/2023/03/31/20230331-CP2K-postprocess/</url>
       
-        <content type="html"><![CDATA[<p>This small python3 script is about postprocessing of CP2K AIMD output with BEC, for polarization changes during ferroelectric switching under external electric fields.</p><span id="more"></span><p><img src="/img/AIMD-HfO2.jpg" alt=""><br>Example: The abnormal continuous ferroelectric switching (homogeneous) of <em>Pca</em>2<sub>1</sub>-HfO<sub>2</sub>, via UCP-a<em>N</em> (N = 2, 4) and UCP-b paths[<a href="https://doi.org/10.48550/arXiv.2302.02874">1</a>,<a href="https://doi.org/10.1103/PhysRevB.106.064104">2</a>]. This figure is plotted in the general scheme of <em>P-E</em> loop, if it was.</p><p>Here will come some introductions…</p>]]></content>
+        <content type="html"><![CDATA[<p>This small python3 script is about postprocessing of CP2K AIMD output with BEC, for polarization changes during ferroelectric switching under external electric fields.</p><span id="more"></span><p><img src="/img/codes/AIMD-HfO2.jpg" alt=""><br>Example: The abnormal continuous ferroelectric switching (homogeneous) of <em>Pca</em>2<sub>1</sub>-HfO<sub>2</sub>, via UCP-a<em>N</em> (N = 2, 4) and UCP-b paths[<a href="https://doi.org/10.48550/arXiv.2302.02874">1</a>,<a href="https://doi.org/10.1103/PhysRevB.106.064104">2</a>]. This figure is plotted in the general scheme of <em>P-E</em> loop, if it was.</p><p>Here will come some introductions…</p>]]></content>
       
       
       <categories>

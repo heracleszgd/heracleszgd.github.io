@@ -1,4 +1,5 @@
 http://example.com/2023/03/31/20230331-CP2K-postprocess/
+http://example.com/2023/04/02/20230402-note-1D-Phonone/
 http://example.com/2023/03/31/20230331-compile-VASP/
 http://example.com/2023/03/31/20230331-MC/
 http://example.com/
@@ -10,5 +11,8 @@ http://example.com/tags/Polarization/
 http://example.com/tags/Python/
 http://example.com/tags/Matlab/
 http://example.com/tags/DFT/
+http://example.com/tags/Phonon/
+http://example.com/tags/Ferroelectrics/
 http://example.com/categories/Codes/
-http://example.com/categories/Compilation/
+http://example.com/categories/Compile/
+http://example.com/categories/Learn/

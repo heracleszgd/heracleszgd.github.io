@@ -4,7 +4,16 @@
   <url>
     <loc>http://example.com/2023/03/31/20230331-CP2K-postprocess/</loc>
     
-    <lastmod>2023-03-31</lastmod>
+    <lastmod>2023-04-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/04/02/20230402-note-1D-Phonone/</loc>
+    
+    <lastmod>2023-04-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>http://example.com/2023/03/31/20230331-compile-VASP/</loc>
     
-    <lastmod>2023-03-31</lastmod>
+    <lastmod>2023-04-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -93,6 +102,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/tags/Phonon/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Ferroelectrics/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -103,7 +126,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/Compilation/</loc>
+    <loc>http://example.com/categories/Compile/</loc>
+    <lastmod>2023-04-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/Learn/</loc>
     <lastmod>2023-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
