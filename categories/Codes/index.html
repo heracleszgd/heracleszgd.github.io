@@ -6,17 +6,18 @@
   <meta name="keywords" content="">
   <meta name="description" content="Guo-Dong Zhao">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<meta name="description" content="Some notes and experinces of some DFT packages, including VASP, QE, Abinit, CP2K, Exciting, FERAM, etc.">
+<meta name="description" content="My learning notes for technics of generating force fields and potential energy surfaces via machahine learning (Mainly focusing on the DPMD established by Zhang et al.).">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Compilations of DFT codes">
-<meta property="og:url" content="http://example.com/2023/03/31/20230331-compile-VASP/index.html">
+<meta property="og:title" content="Deep Potential Molecular Dynamics">
+<meta property="og:url" content="http://example.com/2023/04/02/20230402-note-DPMD/index.html">
 <meta property="og:site_name" content="Guo-Dong Zhao">
-<meta property="og:description" content="Some notes and experinces of some DFT packages, including VASP, QE, Abinit, CP2K, Exciting, FERAM, etc.">
+<meta property="og:description" content="My learning notes for technics of generating force fields and potential energy surfaces via machahine learning (Mainly focusing on the DPMD established by Zhang et al.).">
 <meta property="og:locale" content="en_US">
-<meta property="article:published_time" content="2023-03-31T09:25:44.492Z">
-<meta property="article:modified_time" content="2023-04-02T13:01:50.294Z">
+<meta property="article:published_time" content="2023-04-02T13:46:02.537Z">
+<meta property="article:modified_time" content="2023-04-02T14:00:18.940Z">
 <meta property="article:author" content="G.-D. Zhao">
-<meta property="article:tag" content="DFT">
+<meta property="article:tag" content="machaine-learning">
+<meta property="article:tag" content="force field">
 <meta name="twitter:card" content="summary">
 
 
@@ -367,7 +368,7 @@
         <article class="index">
             <div class="toc-ref">
     
-        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-text">Guo-Dong Zhao (赵国栋)</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Research-Topics"><span class="toc-text">Research Topics</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Skills"><span class="toc-text">Skills</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Working-Experience"><span class="toc-text">Working Experience</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Educations"><span class="toc-text">Educations</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Awards-et-al"><span class="toc-text">Awards, et al.</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Publications"><span class="toc-text">Publications</span></a></li></ol></li></ol></li></ol>
+        <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link"><span class="toc-text">Guo-Dong Zhao (赵国栋)</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Research-Topics"><span class="toc-text">Research Topics</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Working-Experience"><span class="toc-text">Working Experience</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Educations"><span class="toc-text">Educations</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Awards-et-al"><span class="toc-text">Awards, et al.</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Skills"><span class="toc-text">Skills</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Publications"><span class="toc-text">Publications</span></a></li></ol></li></ol></li></ol>
     
 <style>
     .left-col .switch-btn,
@@ -389,7 +390,7 @@ Email: <a href="mailto:gbz5051@psu.edu">gbz5051@psu.edu</a></p>
 <h3 id="Research-Topics">Research Topics</h3>
 <ol>
 <li>
-<p><strong>Ferroelectric Switching Dynamics</strong>: The nature of HfO<sub>2</sub> ferroelectrics from atomistic or multiscale simulations</p>
+<p><strong>Ferroelectric Switching Dynamics</strong>: The nature of HfO2 ferroelectrics from atomistic or multiscale simulations</p>
 <ul>
 <li>
 <p>[Preprint.v3] Polarization description of successive ferroelectric switching in hafnia (Ferroelectric hafnia as an intrinsic ionic conductor). <em>G.-D. Zhao</em>, X. Liu, Z. Xu, W. Ren, X. Zhu, D. Zhang, S. Yu, <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2302.02874">arXiv:2302.02874</a>.</p>
@@ -406,10 +407,10 @@ Email: <a href="mailto:gbz5051@psu.edu">gbz5051@psu.edu</a></p>
 </ul>
 </li>
 <li>
-<p><strong>Low-Dimensional Magnetism</strong>: <a target="_blank" rel="noopener" href="https://github.com/heracleszgd/MaCMoC">Monte Carlo</a> with effective spin Hamiltonian, Ising-2DFM VI<sub>3</sub>, Janus-TMD, vdW-heterestructures, Dzyaloshinsky-Moriya interaction (DMI), Skyrmions</p>
+<p><strong>Low-Dimensional Magnetism</strong>: <a target="_blank" rel="noopener" href="https://github.com/heracleszgd/MaCMoC">Monte Carlo</a> with effective spin Hamiltonian, Ising-2DFM VI3, Janus-TMD, vdW-heterestructures, Dzyaloshinsky-Moriya interaction (DMI), Skyrmions</p>
 <ul>
 <li>
-<p>Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub> [<a target="_blank" rel="noopener" href="https://twitter.com/PhysRevB/status/1358952763871395841">PRBTopDownload</a>]. <em>G.-D. Zhao</em>, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren. <em><strong>Phys. Rev. B</strong></em> 103, 014438 (2021). DOI: <a target="_blank" rel="noopener" href="https://doi.org/10.1103/PhysRevB.103.014438">10.1103/PhysRevB.103.014438</a></p>
+<p>Difference in magnetic anisotropy of the ferromagnetic monolayers VI3 and CrI3 [<a target="_blank" rel="noopener" href="https://twitter.com/PhysRevB/status/1358952763871395841">PRBTopDownload</a>]. <em>G.-D. Zhao</em>, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo, and W. Ren. <em><strong>Phys. Rev. B</strong></em> 103, 014438 (2021). DOI: <a target="_blank" rel="noopener" href="https://doi.org/10.1103/PhysRevB.103.014438">10.1103/PhysRevB.103.014438</a></p>
 </li>
 <li>
 <p>[NEW!] Hidden Valley Polarization, Piezoelectricity, and Dzyaloshinskii–Moriya Interactions of Janus Vanadium Dichalcogenides. <em>G.-D. Zhao</em>, W. Fu, Y. Li, X. Liu, F. Jia, T. Hu, and W. Ren. <em><strong>ACS Appl. Mater. Interfaces</strong></em> (2023). DOI: <a target="_blank" rel="noopener" href="https://doi.org/10.1021/acsami.3c09270">10.1021/acsami.3c09270</a></p>
@@ -423,18 +424,6 @@ Email: <a href="mailto:gbz5051@psu.edu">gbz5051@psu.edu</a></p>
 </ul>
 </li>
 </ol>
-<h3 id="Skills">Skills</h3>
-<ul>
-<li>
-<p><strong>First-Principles</strong>: <a target="_blank" rel="noopener" href="https://www.vasp.at/">VASP</a>, <a target="_blank" rel="noopener" href="http://www.abinit.org/">ABINIT</a>, <a target="_blank" rel="noopener" href="https://www.quantum-espresso.org/">QE</a>, <a target="_blank" rel="noopener" href="https://nanoacademic.com/solutions/rescu/">RESCU</a>, <a target="_blank" rel="noopener" href="http://exciting.wikidot.com/">Exciting</a>; <a target="_blank" rel="noopener" href="https://www.cp2k.org/">CP2K</a>, <a target="_blank" rel="noopener" href="https://nanoacademic.com/solutions/nanodcal/">Nanodcal</a>, <a target="_blank" rel="noopener" href="http://www.calypso.cn/">Calypso</a>, <a target="_blank" rel="noopener" href="https://prisms-center.github.io/CASMcode_docs/">CASM</a></p>
-</li>
-<li>
-<p><strong>Coding</strong>: Matlab (Monte Carlo: <a target="_blank" rel="noopener" href="https://github.com/heracleszgd/MaCMoC">MaCMoC</a>), Python (<em>to be released</em>), Shell</p>
-</li>
-<li>
-<p><strong>English</strong>: IELTS: 7.0 (all individuals &gt; 6.0, Academic, 06/JAN/2018)</p>
-</li>
-</ul>
 <h3 id="Working-Experience">Working Experience</h3>
 <ul>
 <li>
@@ -469,16 +458,39 @@ Email: <a href="mailto:gbz5051@psu.edu">gbz5051@psu.edu</a></p>
 <p>Jun 2017, IUCr Young Scientist Award, <a target="_blank" rel="noopener" href="https://crm2.univ-lorraine.fr/mathcryst/shanghai2017.php">Shanghai International Crystallographic School</a>, The International Union of Crystallography (IUCr)</p>
 </li>
 </ul>
+<h3 id="Skills">Skills</h3>
+<ul>
+<li>
+<p><strong>First-Principles</strong>: <a target="_blank" rel="noopener" href="https://www.vasp.at/">VASP</a>, <a target="_blank" rel="noopener" href="http://www.abinit.org/">ABINIT</a>, <a target="_blank" rel="noopener" href="https://www.quantum-espresso.org/">QE</a>, <a target="_blank" rel="noopener" href="https://nanoacademic.com/solutions/rescu/">RESCU</a>, <a target="_blank" rel="noopener" href="http://exciting.wikidot.com/">Exciting</a>; <a target="_blank" rel="noopener" href="https://www.cp2k.org/">CP2K</a>, <a target="_blank" rel="noopener" href="https://nanoacademic.com/solutions/nanodcal/">Nanodcal</a>, <a target="_blank" rel="noopener" href="http://www.calypso.cn/">Calypso</a>, <a target="_blank" rel="noopener" href="https://prisms-center.github.io/CASMcode_docs/">CASM</a></p>
+</li>
+<li>
+<p><strong>Coding</strong>: Matlab (Monte Carlo: <a target="_blank" rel="noopener" href="https://github.com/heracleszgd/MaCMoC">MaCMoC</a>), Python (<em>to be released</em>), Shell</p>
+</li>
+<li>
+<p><strong>English</strong>: IELTS: 7.0 (all individuals &gt; 6.0, Academic, 06/JAN/2018)</p>
+</li>
+</ul>
 <h3 id="Publications">Publications</h3>
 <p><strong>Pub-Top &amp; Intro</strong></p>
 <ol>
 <li>
+<p><strong><font color="red">[NEW!]</font></strong>.<br>
+Role of ferrons in the heat capacity and thermal transport of displacive ferroelectrics.<br>
+<em><strong>G.-D. Zhao</strong></em>, F. Yang*, and L.-Q. Chen*. <a target="_blank" rel="noopener" href="https://journals.aps.org/prb/accepted/10.1103/3y1m-66s1">Phys. Rev. B (2025), accepted</a>.</p>
+</li>
+<li>
+<p><strong><font color="red">[NEW!]</font></strong>.<br>
+Thermodynamic stabilization and electronic effects of oxygen vacancies at BiFeO_3 neutral ferroelectric domain walls.<br>
+<em><strong>G.-D. Zhao</strong></em>, I. Dabo, and L.-Q. Chen*. <a target="_blank" rel="noopener" href="https://doi.org/10.48550/arXiv.2507.11863">arXiv:2507.11863</a>.</p>
+</li>
+<li>
 <p>[Preprint.v3]  Polarization description of successive ferroelectric switching in hafnia (Ferroelectric hafnia as an intrinsic ionic conductor).<br>
 <em><strong>G.-D. Zhao</strong></em>, X. Liu, Z. Xu, W. Ren, X. Zhu*, D. W. Zhang, S. Yu. <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2302.02874">arXiv:2302.02874</a>.<br>
+I will try to find time to publish it, here or there :)<br>
 <img src="/img/HfO2-2.jpg" alt=""></p>
 <ul>
 <li>
-<p>Ferroelectric-HfO<sub>2</sub> are discovered being an intrinsic ionic conductor.</p>
+<p>Ferroelectric-HfO2 are discovered being an intrinsic ionic conductor.</p>
 </li>
 <li>
 <p>Oxygen-ion conducting is mediated by a novel continuous ferroelectric switching mechanism, showing nesting domains and possible negative pizeoelectric response.</p>
@@ -492,15 +504,15 @@ Email: <a href="mailto:gbz5051@psu.edu">gbz5051@psu.edu</a></p>
 </ul>
 </li>
 <li>
-<p>[NEW!] Hidden Valley Polarization, Piezoelectricity, and Dzyaloshinskii–Moriya Interactions of Janus Vanadium Dichalcogenides.<br>
-<em><strong>G.-D. Zhao</strong></em>, W. Fu, Y. Li, X. Liu, F. Jia, T. Hu*, and W. Ren*. <a target="_blank" rel="noopener" href="https://doi.org/10.1021/acsami.3c09270">ACS Appl. Mater. Interfaces (2023)</a>.<br>
+<p>Hidden Valley Polarization, Piezoelectricity, and Dzyaloshinskii–Moriya Interactions of Janus Vanadium Dichalcogenides.<br>
+<em><strong>G.-D. Zhao</strong></em>, W. Fu, Y. Li, X. Liu, F. Jia, T. Hu*, and W. Ren*. <a target="_blank" rel="noopener" href="https://doi.org/10.1021/acsami.3c09270">ACS Appl. Mater. Interfaces 16, 1268 (2023)</a>.<br>
 <img src="/img/Janus.jpg" alt=""></p>
 <ul>
 <li>Janus V-TMDs have a very broken symmetry. We comprehensively studied the functional properties of Janus H-V<em>XY</em> (<em>X, Y</em> = S, Se, Te) monolayers: orbital occupation, XY-magnetism, OOP-Polarization, valley polarization, piezoelectricity, DMI, etc.</li>
 </ul>
 </li>
 <li>
-<p>[NEW!] Oxygen Vacancies Stabilized 180◦ Charged Domain Walls in Ferroelectric Hafnium Oxide.<br>
+<p>Oxygen Vacancies Stabilized 180◦ Charged Domain Walls in Ferroelectric Hafnium Oxide.<br>
 Z. Xu, X. Zhu*, <em><strong>G.-D. Zhao</strong></em>*, D. W. Zhang, and S. Yu, <a target="_blank" rel="noopener" href="https://doi.org/10.1063/5.0179879">Appl. Phys. Lett. 124, 012902 (2024)</a>.<br>
 <img src="/img/HfO2-3.jpg" alt=""></p>
 <ul>
@@ -518,28 +530,28 @@ Z. Xu, X. Zhu*, <em><strong>G.-D. Zhao</strong></em>*, D. W. Zhang, and S. Yu, <
 <img src="/img/HfO2-1.jpg" alt=""></p>
 <ul>
 <li>
-<p>We introduce a general conceptual methodology of analyzing the symmetry of FE switching paths and domain walls in complex ferroelectric materials. Here for example in ferroelectric-HfO<sub>2</sub>, 4 low-barrier FE switching paths and 93 irreducible topology domain wall configurations are classified and analyzed.</p>
+<p>We introduce a general conceptual methodology of analyzing the symmetry of FE switching paths and domain walls in complex ferroelectric materials. Here for example in ferroelectric-HfO2, 4 low-barrier FE switching paths and 93 irreducible topology domain wall configurations are classified and analyzed.</p>
 </li>
 <li>
-<p>Intrinsic anisotropic switching mechanism of HfO<sub>2</sub> is inferred.</p>
+<p>Intrinsic anisotropic switching mechanism of HfO2 is inferred.</p>
 </li>
 </ul>
 </li>
 <li>
-<p>Difference in magnetic anisotropy of the ferromagnetic monolayers VI<sub>3</sub> and CrI<sub>3</sub> [<a target="_blank" rel="noopener" href="https://twitter.com/PhysRevB/status/1358952763871395841">PRBTopDownload</a>].<br>
+<p>Difference in magnetic anisotropy of the ferromagnetic monolayers VI3 and CrI3 [<a target="_blank" rel="noopener" href="https://twitter.com/PhysRevB/status/1358952763871395841">PRBTopDownload</a>].<br>
 <em><strong>G.-D. Zhao</strong></em>, X. Liu, T. Hu, F. Jia, Y. Cui, W. Wu, M.-H. Whangbo*, and W. Ren*. <a target="_blank" rel="noopener" href="https://doi.org/10.1103/PhysRevB.103.014438">Phys. Rev. B 103, 014438 (2021)</a>.<br>
 <img src="/img/VI3.jpg" alt=""></p>
 <ul>
 <li>
-<p>On the basis of both first principles DFT calculations and theoretical analyses, we showed that VI<sub>3</sub> monolayer is both ferromagnetic and uniaxial whereas CrI<sub>3</sub> monolayer is ferromagnetic but is not uniaxial, and that the minimal model Hamiltonian to distinguish between VI<sub>3</sub> and CrI<sub>3</sub> monolayer is surprisingly a simple Hamiltonian containing only two parameters, namely, the nearest-neighbor spin exchange and the magnetic anisotropy of each magnetic ion.</p>
+<p>On the basis of both first principles DFT calculations and theoretical analyses, we showed that VI3 monolayer is both ferromagnetic and uniaxial whereas CrI3 monolayer is ferromagnetic but is not uniaxial, and that the minimal model Hamiltonian to distinguish between VI3 and CrI3 monolayer is surprisingly a simple Hamiltonian containing only two parameters, namely, the nearest-neighbor spin exchange and the magnetic anisotropy of each magnetic ion.</p>
 </li>
 <li>
-<p>Accurately predicted the Curie Temperature of monolayer VI<sub>3</sub> (TC = 58~60 K). [<a target="_blank" rel="noopener" href="https://doi.org/10.1021/acs.nanolett.1c03027">Xiaodong Xu Group</a>].</p>
+<p>Accurately predicted the Curie Temperature of monolayer VI3 (TC = 58~60 K). [<a target="_blank" rel="noopener" href="https://doi.org/10.1021/acs.nanolett.1c03027">Xiaodong Xu Group</a>].</p>
 </li>
 </ul>
 </li>
 <li>
-<p><strong>Modifying spin current filtering and magnetoresistance in a molecular spintronic device</strong>.<br>
+<p>Modifying spin current filtering and magnetoresistance in a molecular spintronic device.<br>
 <em><strong>G.-D. Zhao</strong></em>, L.-M. Li, Y. Wang, A. Stroppa, J.-H. Zhang, and W. Ren*. <a target="_blank" rel="noopener" href="http://doi.org/10.1039/C8RA07343K">RSC Adv. 41587 (2018)</a>.<br>
 <img src="/img/DDQP.jpg" alt=""></p>
 <ul>
@@ -547,7 +559,7 @@ Z. Xu, X. Zhu*, <em><strong>G.-D. Zhao</strong></em>*, D. W. Zhang, and S. Yu, <
 </ul>
 </li>
 <li>
-<p><strong>Recent progress of improper ferroelectricity in perovskite oxides</strong> (in Chinese).<br>
+<p>Recent progress of improper ferroelectricity in perovskite oxides (in Chinese).<br>
 <em><strong>G.-D. Zhao</strong></em>, Y.-L. Yang, and W. Ren*. <a target="_blank" rel="noopener" href="http://doi.org/10.7498/aps.67.20180936">ACTA PHYS SIN-CH ED, 41587 (2018)</a>.</p>
 <ul>
 <li>We reviewed the research background and advances for impoper ferroelectricity in perovskite oxides, where ferroelectric polarization is a secondary order parameter induced by other orders.</li>
@@ -556,6 +568,10 @@ Z. Xu, X. Zhu*, <em><strong>G.-D. Zhao</strong></em>*, D. W. Zhang, and S. Yu, <
 </ol>
 <p><strong>Pub-Others</strong></p>
 <ol>
+<li>
+<p>Flexocoupling-induced phonons and ferrons in van der Waals ferroelectrics.<br>
+A. N. Morozovska, E. A. Eliseev, O. V. Bereznikov, M. Y. Yelisieiev, <em>G.-D. Zhao</em>, Y. Zhu, V. Gopalan, L.-Q. Chen, J.-M. Hu, and Y. M. Vysochanskii. <a target="_blank" rel="noopener" href="https:doi.org/10.1103/mr9v-khtj">Phys. Rev. B 112, 014110 (2025)</a></p>
+</li>
 <li>
 <p>Phase-Field Model of Electronic Antidoping.<br>
 Y. Shi, <em>G.-D. Zhao</em>, I. Dabo, S. Ramanathan, L.-Q. Chen. <a target="_blank" rel="noopener" href="https://doi.org/10.1103/PhysRevLett.132.256502">Phys. Rev. Lett. 132, 256502 (2024)</a></p>
@@ -593,7 +609,7 @@ S. Xu, F. Jia, <em>G. Zhao</em>, W. Wu, and W. Ren. <a target="_blank" rel="noop
 C. Chen, L. Fang, <em>G. Zhao</em>, X. Liu, J. Wang, L. A. Burton, Y. Zhang, and W. Ren. <a target="_blank" rel="noopener" href="https://doi.org/10.1039/D1TC01513C">J. Mater. Chem. C 9, 9539 (2021)</a>.</p>
 </li>
 <li>
-<p>Manipulation of valley pseudospin in WSe2/CrI<sub>3</sub> heterostructures by the magnetic proximity effect.<br>
+<p>Manipulation of valley pseudospin in WSe2/CrI3 heterostructures by the magnetic proximity effect.<br>
 T. Hu, <em>G. Zhao</em>, H. Gao, Y. Wu, J. Hong, A. Stroppa, and W. Ren. <a target="_blank" rel="noopener" href="https://doi.org/10.1103/PhysRevB.101.125401">Phys. Rev. B 101, 125401 (2020)</a>.</p>
 </li>
 <li>
